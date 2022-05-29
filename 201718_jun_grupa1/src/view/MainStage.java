@@ -70,7 +70,7 @@ public class MainStage extends VBox{
 		tfTimNajGolova = new TextField();
 		tfTimNajGolRazlika = new TextField();
 		tfBrNeresenih = new TextField();
-		btnUkrstanje = new Button("Ukrastanje");
+		btnUkrstanje = new Button("Ukrstanje");
 		
 		//AKCIJE
 		btnFiltriraj.setOnAction(new FiltrirajController(cmbGrupa, tvUtakmice));
