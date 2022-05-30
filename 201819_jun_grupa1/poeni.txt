@@ -1,0 +1,45 @@
+Alya,AL Hakan,2018,103,RI,1,0,1
+Andrej,Balabanović,2018,78,RI,1,1,1
+Andrej,Bratanić,2018,108,RI,0,0,0
+Aleksandar,Gajić,2018,57,RI,1,1,1
+Andrea,Jovanović,2018,115,RI,1,0,1
+Andrijana,Prica,2018,95,RI,0,0,0
+Anastasija,Radonjić,2018,94,RI,0,0,0
+Aleksandar,Zekanović,2018,86,RI,1,0,1
+Adnan,Zenulović,2018,85,RI,1,1,1
+Bogdan,Milanović,2018,88,RI,0,1,0
+Dragoslav,Dukić,2018,66,RI,0,1,0
+David,Malešević,2018,100,RI,0,0,0
+Dimitrios David,Nikiforos,2018,84,RI,0,1,0
+Dušan,Sekulić,2018,97,RI,0,0,0
+Davor,Tubić,2018,129,RI,1,1,1
+Georgije,Andrejević,2018,90,RI,1,0,1
+Igor,Atlić,2018,122,RI,1,0,1
+Igor,Gvozdenov,2018,107,RI,1,0,1
+Luka,Janjić,2018,101,RI,0,0,0
+Luka,Jovanović,2018,99,RI,0,0,0
+Lazar,Pantović,2018,116,RI,0,0,0
+Lazar,Popović,2018,112,RI,0,0,0
+Milena,Dimitrijević,2018,104,RI,1,0,1
+Marija,Gladović,2018,62,RI,1,1,1
+Marko,Josipović,2018,64,RI,1,1,1
+Mina,Kovačević,2018,54,RI,1,0,1
+Maja,Mitrović,2018,89,RI,1,0,1
+Mihajlo,Petković,2018,72,RI,0,0,0
+Milan,Tadić,2018,58,RI,0,0,0
+Mirzad,Tahirović,2018,68,RI,1,1,1
+Miloš,Vasiljević,2018,106,RI,0,0,0
+Nikola,Bošković,2018,111,RI,0,0,0
+Natalija,Dragutinović,2018,74,RI,0,0,0
+Nenad,Kudrić,2018,109,RI,0,1,0
+Nikola,Martinović,2018,135,RI,1,1,1
+Nikola Jovan,Redžić,2018,117,RI,1,0,1
+Stefan,Janićijević,2018,91,RI,0,1,0
+Stefan,Kisić,2018,55,RI,1,1,1
+Strahinja,Obrenović,2018,80,RI,0,0,0
+Stefan,Terzić,2018,60,RI,1,1,1
+Tadija,Simić,2018,63,RI,1,0,1
+Teodora,Stojić,2018,93,RI,1,0,1
+Uroš,Dubić,2018,114,RI,1,0,1
+Vladimir,Cvetković,2018,96,RI,1,1,1
+Luka,Stanković,2016,76,RM,1,1,1
