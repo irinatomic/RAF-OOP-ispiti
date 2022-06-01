@@ -1,0 +1,31 @@
+101
+Matematicka analiza (predavanja), Jovanovic Irena: U1, cet, 12:15-14:00
+Matematicka analiza (vezbe), Jerotijevic Marija: U1, sre, 12:15-15:00
+
+102
+Matematicka analiza (predavanja), Jovanovic Irena: U1, cet, 12:15-14:00
+Matematicka analiza (vezbe), Jerotijevic Marija: U1, sre, 12:15-15:00
+Objektno orijentisano programiranje (vezbe), Milojkovic Branislav: U7, cet, 16:15-18:00
+Objektno orijentisano programiranje (laboratorijske vezbe), Burgic Stefan: U4, pon, 14:15-16:00
+
+103
+Objektno orijentisano programiranje (predavanja), Dimic Surla Bojana: U1, cet, 16:15-18:00
+Diskretne strukture (vezbe), Jerotijevic Marija: U6, cet, 18:15-21:00
+
+104
+Objektno orijentisano programiranje (predavanja), Dimic Surla Bojana: U1, cet, 16:15-18:00
+Diskretne strukture (vezbe), Jerotijevic Marija: U6, cet, 18:15-21:00
+
+105
+Objektno orijentisano programiranje (vezbe), Stancic Aleksandar: U5, cet, 18:15-20:00
+Matematicka analiza (predavanja), Jovanovic Irena: U6, pon, 9:15-11:00
+Matematicka analiza (vezbe), Jerotijevic Marija: U6, pet, 17:15-20:00
+
+106
+Matematicka analiza (predavanja), Jovanovic Irena: U6, pon, 9:15-11:00
+Matematicka analiza (vezbe), Jerotijevic Marija: U6, pet, 17:15-20:00
+
+107
+Matematicka analiza (predavanja), Jovanovic Irena: U6, pon, 9:15-11:00
+Matematicka analiza (vezbe), Jerotijevic Marija: U6, pet, 17:15-20:00
+

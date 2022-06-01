@@ -1,0 +1,184 @@
+Objektno orijentisano programiranje,Vezbe,Milojkovic Branislav,101,PON,14:15-16,U7
+Objektno orijentisano programiranje,Laboratorijske vezbe,Burgic Stefan,101,PET,14:15-16,U7
+Matematicka analiza,Predavanja,Jovanovic Irena,101 102,CET,12:15-14,U1
+Matematicka analiza,Vezbe,Jerotijevic Marija,101 102,SRE,12:15-15,U1
+Objektno orijentisano programiranje,Predavanja,Dimic Surla Bojana,101 102,CET,14:15-16,U1
+Diskretne strukture,Predavanja,Jovanovic Irena,101 102,PET,09:15-11,U6
+Diskretne strukture,Vezbe,Jerotijevic Marija,101 102,SRE,15:15-18,U1
+Engleski 2,Predavanja,Cuk Bojana,101 102,PON,12:15-14,U1
+Pismeno i usmeno izrazavanje,Predavanja,Markovic Mirjana,101 102,PET,11:15-13,U6
+Objektno orijentisano programiranje,Vezbe,Milojkovic Branislav,102,CET,16:15-18,U7
+Objektno orijentisano programiranje,Laboratorijske vezbe,Burgic Stefan,102,PON,14:15-16,U4
+Objektno orijentisano programiranje,Vezbe,Tomic Milan,103,UTO,17:15-19,U5
+Objektno orijentisano programiranje,Laboratorijske vezbe,Vignjevic Mihailo,103,SRE,19:15-21,U7
+Matematicka analiza,Predavanja,Jovanovic Irena,103 104,PET,13:15-15,U1
+Matematicka analiza,Vezbe,Jerotijevic Marija,103 104,PON,16:15-19,U1
+Objektno orijentisano programiranje,Predavanja,Dimic Surla Bojana,103 104,CET,16:15-18,U1
+Diskretne strukture,Vezbe,Jerotijevic Marija,103 104,CET,18:15-21,U6
+Diskretne strukture,Predavanja,Jovanovic Irena,103 104,UTO,12:15-14,U1
+Engleski 2,Predavanja,Cuk Bojana,103 104,PON,14:15-16,U1
+Pismeno i usmeno izrazavanje,Predavanja,Markovic Mirjana,103 104,SRE,16:15-18,U6
+Objektno orijentisano programiranje,Laboratorijske vezbe,Dresevic Nevena,104,PET,16:15-18,U2
+Objektno orijentisano programiranje,Vezbe,Stancic Aleksandar,104,SRE,19:15-21,U5
+Objektno orijentisano programiranje,Laboratorijske vezbe,Vignjevic Mihailo,105,SRE,12:15-14,U2
+Objektno orijentisano programiranje,Vezbe,Stancic Aleksandar,105,CET,18:15-20,U5
+Matematicka analiza,Predavanja,Jovanovic Irena,105 106 107,PON,09:15-11,U6
+Matematicka analiza,Vezbe,Jerotijevic Marija,105 106 107,PET,17:15-20,U6
+Objektno orijentisano programiranje,Predavanja,Dimic Surla Bojana,105 106 107,SRE,14:15-16,U6
+Diskretne strukture,Predavanja,Jovanovic Irena,105 106 107,PON,11:15-13,U6
+Diskretne strukture,Vezbe,Jerotijevic Marija,105 106 107,CET,15:15-18,U6
+Pismeno i usmeno izrazavanje,Predavanja,Markovic Mirjana,105 106 107,PET,15:15-17,U6
+Objektno orijentisano programiranje,Laboratorijske vezbe,Ciric Bogdan,106,SRE,12:15-14,U5
+Objektno orijentisano programiranje,Vezbe,Zirojevic Nemanja,106,SRE,18:15-20,U4
+Engleski 2,Predavanja,Cuk Bojana,106,SRE,16:15-18,U8
+Objektno orijentisano programiranje,Vezbe,Stancic Aleksandar,107,SRE,12:15-14,U7
+Objektno orijentisano programiranje,Laboratorijske vezbe,Dresevic Nevena,107,CET,18:15-20,U3
+Engleski 2,Predavanja,Cuk Bojana,107 105,CET,13:15-15,U6
+Muzicka produkcija 1,Predavanja,Ognjanovic Ivana,1d1,PON,16:15-19,Studio
+Muzicka produkcija 1,Vezbe,Ognjanovic Ivana,1d1,PET,10:15-13,Studio
+Engleski 2,Predavanja,Cuk Bojana,1d1 1d2 1d3,SRE,14:15-16,U10 (Atelje)
+Ilustracija,Predavanja,Djuric Milan,1d1 1d2 1d3,PON,13:15-16,U-11
+Ilustracija,Vezbe,Djuric Milan,1d1 1d2 1d3,CET,14:15-17,U-11
+Dizajn i informacione tehnologije,Predavanja,Telarovic Rosana,1d1 1d2 1d3,SRE,11:15-14,U-11
+Dizajn i informacione tehnologije,Vezbe,Bujic Predrag,1d1 1d2 1d3,SRE,17:15-20,U-11
+Muzicka produkcija 1,Vezbe,Ognjanovic Ivana,1d2,PET,13:15-16,Studio
+Muzicka produkcija 1,Predavanja,Ognjanovic Ivana,1d2,UTO,10:15-13,Studio
+Muzicka produkcija 1,Predavanja,Ognjanovic Ivana,1d3,UTO,13:15-16,Studio
+Muzicka produkcija 1,Vezbe,Ognjanovic Ivana,1d3,PET,16:15-19,Studio
+Administracija i odrzavanje sistema 2,Predavanja i vezbe,Lale Sinisa,1s1,CET,09:15-12,U2
+Administracija i odrzavanje sistema 2,Predavanja i vezbe,Lale Sinisa,1s1,SRE,12:15-15,U4
+Osnovi informacionih tehnologija,Vezbe,Zahorjanski Miroljub,1s1,SRE,16:15-17,U4
+Poslovni softver,Predavanja i vezbe,Mijatovic Igor,1s1,PON,11:15-14,U4
+Poslovni softver,Predavanja i vezbe,Mijatovic Igor,1s1,CET,12:15-14,U4
+Engleski 2,Predavanja,Vrbica-Matejic Vera,1s1 1s2,PET,11:15-13,U1
+Pismeno i usmeno izrazavanje,Predavanja,Markovic Mirjana,1s1 1s2,PON,15:15-17,U6
+Osnovi informacionih tehnologija,Predavanja,Zahorjanski Miroljub,1s1 1s2,SRE,09:15-12,U1
+Administracija i odrzavanje sistema 2,Predavanja i vezbe,Seslija Ognjen,1s2,PON,17:15-20,U3
+Administracija i odrzavanje sistema 2,Predavanja i vezbe,Seslija Ognjen,1s2,UTO,18:15-21,U3
+Osnovi informacionih tehnologija,Vezbe,Zahorjanski Miroljub,1s2,SRE,15:15-16,U4
+Poslovni softver,Predavanja i vezbe,Mijatovic Igor,1s2,CET,09:15-12,U4
+Poslovni softver,Predavanja i vezbe,Mijatovic Igor,1s2,PET,09:15-11,U4
+Operativni sistemi,Vezbe,Veniger Marko,201,PET,09:15-12,U5
+Racunarske mreze,Vezbe,Galic Luka,201,CET,09:15-12,U7
+Upravljanje informacijama,Vezbe,Markovic Ana,201,UTO,10:15-12,U2
+Dizajn i analiza algoritama,Vezbe,Bakarec Bogdan,201,CET,12:15-14,U8
+Upravljanje informacijama,Predavanja,Perisic Branko,201 202,UTO,12:15-15,U6
+Dizajn i analiza algoritama,Predavanja,Urosevic Dragan,201 202,UTO,17:15-19,U1
+Racunarske mreze,Predavanja,Babic Djorde,201 202 203 204 205,SRE,12:15-15,Kolarac
+Operativni sistemi,Predavanja,Milinkovic Stevan,201 202 203 204 205 210 211,SRE,09:15-12,Kolarac
+Operativni sistemi,Vezbe,Veniger Marko,202,CET,18:15-21,U2
+Racunarske mreze,Vezbe,Galic Luka,202,SRE,15:15-18,U3
+Upravljanje informacijama,Vezbe,Markovic Ana,202,UTO,15:15-17,U4
+Dizajn i analiza algoritama,Vezbe,Bakarec Bogdan,202,CET,16:15-18,U8
+Operativni sistemi,Vezbe,Veniger Marko,203,PON,16:15-19,U7
+Racunarske mreze,Vezbe,Vucicevic Nemanja,203,PET,09:15-12,U2
+Upravljanje informacijama,Vezbe,Markovic Ana,203,PON,19:15-21,U4
+Dizajn i analiza algoritama,Vezbe,Draskic Radojica,203,UTO,13:15-15,U8
+Upravljanje informacijama,Predavanja,Perisic Branko,203 204 205,UTO,15:15-18,U6
+Dizajn i analiza algoritama,Predavanja,Urosevic Dragan,203 204 205,UTO,19:15-21,U6
+Operativni sistemi,Vezbe,Veniger Marko,204,PET,16:15-19,U4
+Racunarske mreze,Vezbe,Vucicevic Nemanja,204,UTO,12:15-15,U3
+Upravljanje informacijama,Vezbe,Markovic Ana,204,PON,15:15-17,U3
+Dizajn i analiza algoritama,Vezbe,Draskic Radojica,204,PET,19:15-21,U9
+Operativni sistemi,Vezbe,Milojkovic Branislav,205,CET,13:15-16,U3
+Racunarske mreze,Vezbe,Mitrovic Marko,205,CET,10:15-13,U3
+Upravljanje informacijama,Vezbe,Markovic Ana,205,PON,17:15-19,U4
+Dizajn i analiza algoritama,Vezbe,Draskic Radojica,205,CET,16:15-18,U3
+Operativni sistemi,Vezbe,Milojkovic Branislav,210,PON,11:15-14,U7
+Racunarske mreze,Vezbe,Mitrovic Marko,210,CET,15:15-18,U5
+Digitalne komunikacije,Vezbe,Jovanovic Miljana,210,PON,09:15-11,U2
+Racunarske mreze,Predavanja,Bojovic Petar,210 211,CET,12:15-15,U9
+Napredna matematicka analiza,Predavanja,Filipovic Milanka,210 211,CET,10:15-12,U9
+Napredna matematicka analiza,Vezbe,Filipovic Milanka,210 211,PON,15:15-17,U8
+Digitalne komunikacije,Predavanja,Vucic Desimir,210 211,UTO,09:15-12,U1
+Operativni sistemi,Vezbe,Veniger Marko,211,PET,12:15-15,U5
+Racunarske mreze,Vezbe,Mitrovic Marko,211,PON,11:15-14,U5
+Digitalne komunikacije,Vezbe,Jovanovic Miljana,211,PET,16:15-18,U5
+Engleski jezik 4,Predavanja,Cuk Bojana,2d1,PON,16:15-18,U10 (Atelje)
+Grafiicki dizajn 1,Predavanja,Malesevic Nenad,2d1,PON,10:15-13,U-11
+Grafiicki dizajn 1,Vezbe,Malesevic Nenad,2d1,PON,13:15-16,U10 (Atelje)
+Muzicka produkcija 2,Predavanja,Ognjanovic Ivana,2d1, SUB ,10:15-13,Studio
+Muzicka produkcija 2,Vezbe,Ognjanovic Ivana,2d1, SUB ,13:15-16,Studio
+Prostor i oblik,Predavanja,Telarovic Rosana,2d1,UTO,10:15-13,U-11
+Prostor i oblik,Vezbe,Telarovic Rosana,2d1,UTO,13:15-16,U10 (Atelje)
+Racunarske komunikacije,Vezbe,Babovic Ivan,2s1,PON,11:15-14,U2
+Programiranje WEB aplikacija,Predavanja,Radosavljevic Nemanja,2s1,PET,12:15-14,U2
+Programiranje WEB aplikacija,Vezbe,Mihajlovic Todor,2s1,SRE,09:15-12,U2
+Interakcija covek racunar,Vezbe,Mijatovic Igor,2s1,PON,09:15-11,U4
+Elektronsko poslovanje,Vezbe,Radosavljevic Nemanja,2s1,PET,14:15-16,U2
+Racunarske komunikacije,Predavanja,Babovic Ivan,2s1 2s2,UTO,14:15-17,U1
+Elektronsko poslovanje,Predavanja,Popovic Snezana,2s1 2s2,CET,09:15-12,U1
+Racunarske komunikacije,Vezbe,Babovic Ivan,2s2,CET,12:15-15,U2
+Programiranje WEB aplikacija,Vezbe,Mihajlovic Todor,2s2,UTO,09:15-12,U3
+Programiranje WEB aplikacija,Predavanja,Radosavljevic Nemanja,2s2,UTO,12:15-14,U2
+Interakcija covek racunar,Vezbe,Mijatovic Igor,2s2,PET,11:15-13,U4
+Elektronsko poslovanje,Vezbe,Radosavljevic Nemanja,2s2,PET,09:15-11,U3
+Programski prevodioci,Predavanja,Vujosevic Dusan,301 302 303 304 305 306 307 308 309 309a,PON,13:15-15,U6
+Interakcija covek racunar,Predavanja,Vujosevic Dusan,301 302 303 304 305 306 307 308 309 309a 2s1 2s2,SRE,15:15-17,Kolarac
+Masinsko ucenje,Predavanja,Ilic Nemanja,301 302 306 308,PET,13:15-15,U6
+Interakcija covek racunar,Vezbe,Radosavljevic Nemanja,301 303 304 305,PON,11:15-13,U3
+WEB programiranje,Predavanja,Vidakovic MIlan,301 303 304 307 308 309 314 319 322,PET,15:15-17,U1
+WEB programiranje,Vezbe,Gavrilovic Vuk,301 303 304 307 322,SRE,17:15-19,U5
+Programski prevodioci,Vezbe,Stankovic Ivana,301 305 308,PON,09:15-11,U3
+Softverske komponente,Predavanja,Dimic Surla Bojana,301 307 309a,UTO,17:15-19,U8
+Softverske komponente,Vezbe,Radovic Mihailo,301 307 309a,UTO,19:15-21,U5
+Masinsko ucenje,Vezbe,Jovanovic Nikola,301 308 302 306,PON,15:15-17,U9
+Genetski algoritmi,Vezbe,Tomic Milan,302 303,SRE,13:15-15,U8
+Programski prevodioci,Vezbe,Stankovic Ivana,302 303 304,UTO,13:15-15,U7
+Genetski algoritmi,Predavanja,Vasiljevic Jelena,302 303 305 306 309 309a,PET,18:15-20,U1
+Funkcionalno programiranje,Predavanja,Dimic Surla Bojana,302 304 309,PON,09:15-11,U5
+Funkcionalno programiranje,Vezbe,Ciganovic Igor,302 304 309,PET,11:15-13,U3
+Interakcija covek racunar,Vezbe,Radosavljevic Nemanja,302 307 306,SRE,11:15-13,U3
+Razvoj mobilnih aplikacija,Predavanja,Zirojevic Nemanja,303 304 305 306 307 308 313 314,CET,18:15-20,U8
+Razvoj mobilnih aplikacija,Vezbe,Kojadinovic Dragoljub,303 304 305 306 307 308 313 314,UTO,10:15-12,U7
+Modelovanje i simulacija,Predavanja,Jankovic Radomir,305 319 323 309a 324,SRE,11:15-13,U9
+Programski prevodioci,Vezbe,Stankovic Ivana,306 307 309 309a,CET,16:15-18,U2
+Interakcija covek racunar,Vezbe,Radosavljevic Nemanja,308 309 309a,SRE,13:15-15,U3
+WEB programiranje,Vezbe,Gavrilovic Vuk,308 309 314 319,UTO,17:15-19,U2
+Genetski algoritmi,Vezbe,Tomic Milan,309 309a 305 306,CET,14:15-16,U8
+Modelovanje i simulacija,Vezbe,Jankovic Radomir,309a 324 305,SRE,09:15-11,U5
+Bezbednost mreza,Predavanja,Babic Djorde,313 314 319 323 324 322,UTO,15:15-17,U7
+Bezbednost mreza,Vezbe,Bojovic Petar,313 314 319 323 324 322,PET,12:15-14,U7
+Kompresija podataka,Predavanja,Vukotic Selena,313 314 319 323 324 322,UTO,12:15-15,U4
+Kompresija podataka,Vezbe,Vukotic Selena,313 314 319 323 324 322,SRE,16:15-18,U7
+Kodovanje i teorija informacija,Predavanja,Vucic Desimir,313 314 319 323 324 322,PON,09:15-12,U1
+Kodovanje i teorija informacija,Vezbe,Jovanovic Miljana,313 314 319 323 324 322,SRE,14:15-16,U7
+Uvod u robotiku,Predavanja,Jovanovic Milos,313 323,PET,16:15-18,U8
+Uvod u robotiku,Vezbe,Jovanovic Miljana,313 323,PET,14:15-16,U3
+Modelovanje i simulacija,Vezbe,Jankovic Radomir,319 323,UTO,10:15-12,U5
+Data centar infrastruktura,Predavanja,Martic Goran,324 322,UTO,17:15-19,U7
+Data centar infrastruktura,Vezbe,Martic Goran,324 322,UTO,19:15-21,U2
+Graficki dizajn 2,Predavanja,Malesevic Nenad,3d1,UTO,13:15-16,U-11
+Graficki dizajn 2,Vezbe,Malesevic Nenad,3d1,UTO,16:15-19,U10 (Atelje)
+Muzicka produkcija 3,Predavanja,Ognjanovic Ivana,3d1,PON,10:15-13,Studio
+Muzicka produkcija 3,Vezbe,Ognjanovic Ivana,3d1,PON,13:15-16,Studio
+Racunarska animacija,Predavanja,Djuric Milan,3d1,SRE,14:15-17,U-11
+Racunarska animacija,Vezbe,Djuric Milan,3d1,CET,10:15-13,U-11
+Scenario i knjiga snimanja,Predavanja,Stetin Darko,3d1,PET,13:15-16,U10 (Atelje)
+Scenario i knjiga snimanja,Vezbe,Stetin Darko,3d1,PET,16:15-18,U-11
+Upravljanje i odrzavanje Windows Server okruzenja,Predavanja i vezbe,Lale Sinisa,3s1,PON,14:15-17,U2
+Upravljanje i odrzavanje Windows Server okruzenja,Predavanja i vezbe,Lale Sinisa,3s1,UTO,14:15-17,U2
+Implementiranje Microsoft ISA servera,Predavanja i vezbe,Lale Sinisa,3s1,CET,14:15-17,U4
+Implementiranje Microsoft ISA servera,Predavanja i vezbe,Lale Sinisa,3s1,SRE,09:15-12,U4
+Prakticne tehnike zastite u IP mrezama,Predavanja,Bojovic Petar,3s1,PON,17:15-20,U5
+Prakticne tehnike zastite u IP mrezama,Vezbe,Jankovski Ivan,3s1,CET,09:15-12,U5
+Istorija racunarstva,Predavanja,Zahorjanski Miroljub,3s1 3s2,SRE,12:15-14,U6
+Razvoj infrastrukture i servisa u oblaku,Predavanja,Miletic Misa,3s2,CET,17:15-20,U4
+Razvoj infrastrukture i servisa u oblaku,Vezbe,Miletic Misa,3s2,UTO,17:15-20,U4
+Razvoj web aplikacija i servisa,Predavanja i vezbe,Markovic Nemanja,3s2,UTO,14:15-17,U5
+Razvoj web aplikacija i servisa,Predavanja i vezbe,Markovic Nemanja,3s2,CET,12:15-15,U5
+Microsoft tehnologije za pristup podacima,Predavanja i vezbe,Milosavljevic Milos,3s2,SRE,14:15-17,U5
+Microsoft tehnologije za pristup podacima,Predavanja i vezbe,Milosavljevic Milos,3s2,PON,14:15-17,U5
+Konkurentni i distribuirani sistemi,Vezbe,Milojkovic Branislav,401,PET,09:15-12,U7
+Softversko inzenjerstvo,Vezbe,Markovic Ana,401,PET,16:15-20,U3
+Softversko inzenjerstvo,Predavanja,Perisic Branko,401 402,UTO,8:15-12,U6
+Teorija algoritama automata i jezika,Predavanja,Jovanovic Jelena,401 402,PON,17:15-20,U6
+Teorija algoritama automata i jezika,Vezbe,Tomic Milan,401 402,SRE,18:15-21,U6
+Konkurentni i distribuirani sistemi,Predavanja,Milinkovic Stevan,401 402 405,CET,10:15-13,U6
+Konkurentni i distribuirani sistemi,Vezbe,Milojkovic Branislav,402,UTO,15:15-18,U3
+Softversko inzenjerstvo,Vezbe,Markovic Ana,402,SRE,14:15-18,U2
+Konkurentni i distribuirani sistemi,Vezbe,Milojkovic Branislav,405,SRE,18:15-21,U3
+Digitalna obrada signala,Predavanja,Babic Djorde,405,UTO,09:15-12,U4
+Digitalna obrada signala,Vezbe,Jovanovic Miljana,405,PET,18:15-21,U7
+Namenski racunarski sistemi,Predavanja,Jovanovic Milos,405,PON,18:15-21,U2
+Namenski racunarski sistemi,Vezbe,Stambolovic Bogdana,405,CET,13:15-16,U7
