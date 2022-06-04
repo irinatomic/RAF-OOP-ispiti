@@ -1,0 +1,18 @@
+Ella Fitzgerald,Ella and Louis,2020,Vinyl,Jazz,2399,nova
+Ella Fitzgerald,Songbook,2018,Vinyl-2,Jazz,2899,nova
+Ella Fitzgerald,Ella in Berlin,1960,Vinyl-2,Jazz,6800,polovna
+Ekatarina Velika,Iznad grada,2009,Vinyl-3,Rock,3199,nova
+Ekatarina Velika,Krug,2017,CD-2,Rock,899,nova
+Jimi Hendrix,Band of Gypsis,1970,Vinyl,Rock,2999,nova
+Miladin Sobic,Oziljak,1981,CD-1,Blues,4999,polovna
+Miladin Sobic,Umjesto gluposti,1982,Vinyl,Blues,3000,polovna
+Miladin Sobic,Oziljak,1981,Vinyl,Blues,3900,polovna
+Queen,Bohemian Rhapsody,2019,Vinyl-2,Rock,4200,nova
+Green Day,God's Favorite Band,2007,CD,Rock,1699,nova
+Green Day,American Idiot,2004,CD,Rock,1199,polovna
+Queen,A Night at the Opera,1975,Vinyl,Rock,5699,polovna
+Karl Amadeus Hartmann,Hartmann: Symphonies 1-6 (20th Century Classics),2020,CD-2,Classical,1599,nova
+Various Artists,WANTED HIP-HOP,2020,Vinyl,Hip hop,2599,nova
+Dream Syndicate,How Did I Find Myself Here?,2020,CD,Classical,1899,nova
+Emmanuel Pahud,Dreamtime,2019,CD,Classical,1599,nova
+Wiz Khalifa,ROLLING PAPERS,2011,CD,Hip hop,1199,polovna
