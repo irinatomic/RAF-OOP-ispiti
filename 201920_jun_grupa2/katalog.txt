@@ -1,0 +1,18 @@
+Jazz
+Ella Fitzgerald,Ella and Louis,2020,Vinyl-1,2399,nova
+Ella Fitzgerald,Songbook,2018,Vinyl-2,2899,nova
+Ella Fitzgerald,Ella in Berlin,1960,Vinyl-2,6800,polovna
+Rock
+Ekatarina Velika,Iznad grada,2009,Vinyl-3,3199,nova
+Ekatarina Velika,Krug,2017,CD-2,1399,nova
+Jimi Hendrix,Band of Gypsis,1970,Vinyl-1,2999,nova
+Queen,Bohemian Rhapsody,2019,Vinyl-2,4200,nova
+Green Day,God's Favorite Band,2007,CD-1,1699,nova
+Green Day,American Idiot,2004,CD-1,1199,polovna
+Queen,A Night at the Opera,1975,Vinyl-1,5699,polovna
+Blues
+Miladin Sobic,Oziljak,1981,CD-1,4999,polovna
+Miladin Sobic,Umjesto gluposti,1982,Vinyl-1,3000,polovna
+Miladin Sobic,Oziljak,1981,Vinyl-1,3900,polovna
+
+
