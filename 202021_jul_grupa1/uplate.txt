@@ -1,0 +1,7 @@
+3000;Vlada RS;16.04.2021.
+100000;RAF;16.04.2021.
+3000;Gospodin Popara;29.05.2021.
+4000;Arandjel Golubovic;09.06.2021.
+5000;Riska Golubovic;21.06.2021.
+6000;Ozren Soldatovic;22.06.2021.
+Ukupno uplaceno: 121000 RSD

@@ -1,0 +1,15 @@
+30000;Agencija za nekretnine;01.04.2021.;STANOVANJE
+5000;Osiguravajuca kuca "Bolji zivot";15.04.2021.;OSIGURANJE
+500;Taksi "Tokyo Drift";03.05.2021.;TRANSPORT
+2000;Gradski prevoz;10.05.2021.;TRANSPORT
+5000;Knjizara "Miroljub";23.05.2021.;EDUKACIJA
+10000;Prodavnica zdrave hrane "Giros";30.05.2021.;HRANA
+7500;Modna kuca "Luj Beton";09.06.2021.;ODECA
+2500;Mesara "Lady Gaga";09.06.2021.;ODECA
+3000;Kafana "Kod Zokija";15.06.2021.;ZABAVA
+100;Poreska uprava;18.06.2021.;OSTALO
+350;Pijaca "Gorski vijenac";21.06.2021.;OSTALO
+300;Auto skola "Kolarac";01.07.2022.;EDUKACIJA
+4500;Elektrodistribucija;01.07.2022.;STANOVANJE
+700;Dunav osiguranje;01.07.2022.;OSIGURANJE
+Ukupno isplaceno: 71450 RSD
