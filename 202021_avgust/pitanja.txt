@@ -1,0 +1,14 @@
+Da li se u konstruktoru može koristiti rezervisana reč this?;Da;OOP
+Da li protected metode mogu da se nadjačavaju u potklasama?;Da;OOP
+Navesti primer jednog ugrađenog runtime izuzetka (izuzetak koji ne mora da se obradi da bi se kompajlirao program), napisati ime klase?;NumberFormatException;OOP
+Da li je sledeća inicijalizacija ispravna: List<float> col = new ArrayList<float>() i zašto?;Ne, lista ne može sadržati primitivne tipove;OOP
+Da li privatne metode mogu pristupati samo privatnim poljima?;Ne;OOP
+Da li se u konstruktoru može koristiti rezervisana reč super?;Da;OOP
+Da li privatne metode mogu da se nadjačavaju?;Ne, jer nisu vidljive;OOP
+Broj 30.5 prestavljen u 32-obitnom IEEE754 formatu, zapisan u heksadecimalnoj reprezentaciji je?;0x41f40000;ORS
+Šta je kernel i šta on sadrži?;Kernel je jezgro OS-a i sadrži najčešće korišćene funkcije OS-a i druge delove koji se tada koriste.;ORS
+U kojim stanjima može biti proces?;Nov,spreman,izvršavanje,čekanje,zaustavljen;ORS
+Koje su 3 glavne U/I tehnike?;Programirani U/I, U/I upravljan prekidima, DMA (direktan pristup memoriji);ORS
+Šta je prekid?;Mehanizam kojim drugi moduli (npr. U/I) mogu da prekinu normalnu sekvencu obrade.;ORS
+Koje ispise na konzolu proizvode sledeća naredbe u C-u: int a = 0, printf("%d-3, %d-3", a, sizeof(a))?;0-3,4-3;UUP
+Da li se u konstruktoru moze koristiti rezervisana rec super?;Da;OOP
