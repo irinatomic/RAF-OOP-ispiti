@@ -108,7 +108,7 @@ public class MainView extends Stage {
 	
 	private void actions() {
 		btnIzaberi.setOnAction(new IzaberiController(tvIzdavaci, cmbRazredi));
-		btnIzvrsi.setOnAction(new IzvrsiController(tvUdzbenici, cmbIzmeni, tfIzmeni));
+		btnIzvrsi.setOnAction(new IzvrsiController(tvIzdavaci, tvUdzbenici, cmbIzmeni, tfIzmeni));
 		btnSnimi.setOnAction(event -> FileUtil.snimiUFajl("snimljeno.txt"));
 	}
 	
