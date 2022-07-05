@@ -1,0 +1,1636 @@
+ČAS VOŽNJE,2019-01-01,Buharić,Đuraško
+ČAS TEORIJE,2019-01-01,Guconić,Vukola
+UPLATA-2530.75,2019-01-01,Koplić,Žikica
+ČAS VOŽNJE,2019-01-01,Mandinić,Đurđa
+ČAS TEORIJE,2019-01-01,Rekavić,Ilija
+ČAS VOŽNJE,2019-01-01,Ćupić,Miladin
+ČAS TEORIJE,2019-01-02,Roljić,Smilja
+ČAS VOŽNJE,2019-01-02,Roljić,Smilja
+ČAS TEORIJE,2019-01-02,Ananić,Andrija
+UPLATA-915.26,2019-01-02,Kravić,Adelina
+UPLATA-2816.12,2019-01-02,Kiklić,Radoslava
+ČAS TEORIJE,2019-01-03,Roljić,Smilja
+ČAS VOŽNJE,2019-01-03,Đinđić,Miljojko
+ČAS VOŽNJE,2019-01-03,Kuveljić,Rada
+ČAS VOŽNJE,2019-01-03,Kilić,Dragosav
+ČAS TEORIJE,2019-01-04,Đuračić,Hvalimir
+UPLATA-2344.31,2019-01-04,Ćupić,Miladin
+ČAS TEORIJE,2019-01-05,Kokorić,Ćirilo
+ČAS TEORIJE,2019-01-05,Kravić,Adelina
+ČAS VOŽNJE,2019-01-05,Ćuić,Marijana
+UPLATA-1034.99,2019-01-05,Rakulić,Trivko
+ČAS TEORIJE,2019-01-05,Buharić,Đuraško
+ČAS TEORIJE,2019-01-05,Trlajić,Neško
+ČAS VOŽNJE,2019-01-06,Jovčetić,Radika
+ČAS VOŽNJE,2019-01-06,Stakušić,Borjanka
+ČAS TEORIJE,2019-01-06,Anđušić,Ismail
+ČAS VOŽNJE,2019-01-06,Kurdulić,Ratibor
+ČAS TEORIJE,2019-01-06,Penčić,Cvijan
+ČAS TEORIJE,2019-01-07,Ljubić,Zlata
+UPLATA-2944.95,2019-01-07,Roksandić,Stefana
+ČAS VOŽNJE,2019-01-07,Stankulić,Radosija
+UPLATA-1198.92,2019-01-07,Murišić,Branisav
+ČAS VOŽNJE,2019-01-07,Porobić,Vasiljko
+UPLATA-411.83,2019-01-08,Kokorić,Ćirilo
+UPLATA-1083.08,2019-01-08,Andesilić,Zvjezdan
+UPLATA-918.06,2019-01-08,Plemić,Plamenka
+UPLATA-2046.42,2019-01-08,Bikić,Đuro
+ČAS TEORIJE,2019-01-09,Valčić,Darka
+ČAS VOŽNJE,2019-01-09,Plemić,Plamenka
+ČAS TEORIJE,2019-01-09,Valčić,Darka
+ČAS VOŽNJE,2019-01-10,Buharić,Đuraško
+UPLATA-1447.18,2019-01-10,Guconić,Vukola
+UPLATA-1652.18,2019-01-10,Kilić,Dragosav
+ČAS VOŽNJE,2019-01-10,Krstinić,Krstimir
+UPLATA-1328.67,2019-01-11,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-01-11,Kiklić,Radoslava
+ČAS VOŽNJE,2019-01-11,Plemić,Plamenka
+ČAS VOŽNJE,2019-01-11,Folić,Jelisav
+ČAS VOŽNJE,2019-01-12,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-01-12,Vasikić,Vasilije
+ČAS TEORIJE,2019-01-12,Kovčić,Dobrosav
+ČAS TEORIJE,2019-01-13,Alavantić,Jovica
+UPLATA-347.84,2019-01-13,Kurdulić,Ratibor
+ČAS TEORIJE,2019-01-13,Roljić,Smilja
+ČAS VOŽNJE,2019-01-13,Vasikić,Vasilije
+ČAS VOŽNJE,2019-01-13,Prokić,Rajka
+UPLATA-2688.32,2019-01-14,Roksandić,Stefana
+ČAS VOŽNJE,2019-01-14,Čohadžić,Milorad
+UPLATA-994.78,2019-01-14,Bikić,Đuro
+ČAS VOŽNJE,2019-01-14,Paninčić,Tihomir
+UPLATA-1757.41,2019-01-14,Malečić,Miroslava
+UPLATA-1438.32,2019-01-14,Budalić,Krstivoje
+ČAS VOŽNJE,2019-01-15,Čohadžić,Milorad
+UPLATA-2468.79,2019-01-15,Prendić,Kosana
+UPLATA-2796.18,2019-01-15,Bjeletić,Momir
+UPLATA-2322.63,2019-01-16,Lozić,Pokrajac
+ČAS TEORIJE,2019-01-16,Sinđelić,Đurđica
+UPLATA-1962.66,2019-01-16,Biljurić,Vlado
+UPLATA-487.67,2019-01-16,Rekavić,Ilija
+UPLATA-138.36,2019-01-16,Krstinić,Krstimir
+ČAS VOŽNJE,2019-01-17,Bobičić,Tanasije
+ČAS TEORIJE,2019-01-17,Pupić,Ilija
+UPLATA-1392.34,2019-01-17,Pajić,Ozriša
+ČAS TEORIJE,2019-01-17,Ananić,Andrija
+ČAS VOŽNJE,2019-01-17,Ćuić,Marijana
+ČAS TEORIJE,2019-01-18,Sjeničić,Savan
+ČAS VOŽNJE,2019-01-18,Kepić,Melanija
+ČAS VOŽNJE,2019-01-18,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-01-18,Đinđić,Miljojko
+UPLATA-500.64,2019-01-19,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-01-19,Malečić,Miroslava
+UPLATA-670.76,2019-01-19,Sofijanić,Alimpije
+ČAS TEORIJE,2019-01-19,Sinđelić,Đurđica
+ČAS TEORIJE,2019-01-20,Kuveljić,Rada
+UPLATA-1390.98,2019-01-20,Porobić,Vasiljko
+ČAS TEORIJE,2019-01-20,Bikić,Đuro
+ČAS VOŽNJE,2019-01-21,Biljurić,Vlado
+ČAS TEORIJE,2019-01-21,Alavantić,Jovica
+ČAS VOŽNJE,2019-01-21,Andesilić,Zvjezdan
+UPLATA-2467.14,2019-01-21,Kiklić,Radoslava
+ČAS TEORIJE,2019-01-21,Ananić,Andrija
+ČAS TEORIJE,2019-01-21,Sofijanić,Alimpije
+ČAS TEORIJE,2019-01-22,Kopčalić,Rekula
+ČAS TEORIJE,2019-01-22,Kovčić,Dobrosav
+UPLATA-1612.30,2019-01-22,Ordagić,Zlatan
+ČAS TEORIJE,2019-01-23,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-01-23,Folić,Jelisav
+UPLATA-27.42,2019-01-23,Porobić,Vasiljko
+UPLATA-615.16,2019-01-24,Prokić,Rajka
+ČAS TEORIJE,2019-01-24,Penčić,Cvijan
+ČAS TEORIJE,2019-01-24,Ćupić,Miladin
+UPLATA-2777.10,2019-01-24,Nerić,Vidoja
+ČAS VOŽNJE,2019-01-24,Vrugić,Julka
+UPLATA-712.22,2019-01-25,Čohadžić,Milorad
+ČAS TEORIJE,2019-01-25,Prokić,Rajka
+ČAS TEORIJE,2019-01-25,Bobičić,Tanasije
+ČAS TEORIJE,2019-01-26,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-01-26,Kepić,Melanija
+ČAS TEORIJE,2019-01-26,Buharić,Đuraško
+ČAS TEORIJE,2019-01-26,Mandinić,Đurđa
+ČAS TEORIJE,2019-01-27,Budalić,Krstivoje
+UPLATA-2046.12,2019-01-27,Anđušić,Ismail
+ČAS VOŽNJE,2019-01-27,Puhalić,Perica
+ČAS TEORIJE,2019-01-27,Kiklić,Radoslava
+ČAS VOŽNJE,2019-01-28,Ćupić,Miladin
+UPLATA-442.87,2019-01-28,Poznić,Dario
+UPLATA-418.68,2019-01-28,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-01-28,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-01-28,Rakulić,Trivko
+ČAS TEORIJE,2019-01-29,Rekavić,Ilija
+ČAS TEORIJE,2019-01-29,Vrugić,Julka
+ČAS VOŽNJE,2019-01-29,Folić,Jelisav
+ČAS TEORIJE,2019-01-29,Drakić,Radovinka
+ČAS TEORIJE,2019-01-29,Sjeničić,Savan
+ČAS VOŽNJE,2019-01-30,Ljubić,Zlata
+ČAS VOŽNJE,2019-01-30,Drakić,Radovinka
+UPLATA-2770.08,2019-01-30,Ordagić,Zlatan
+ČAS VOŽNJE,2019-01-30,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-01-31,Kopčalić,Stribor
+ČAS VOŽNJE,2019-01-31,Ananić,Andrija
+ČAS TEORIJE,2019-01-31,Koplić,Žikica
+UPLATA-1306.90,2019-01-31,Ušendić,Radoš
+ČAS VOŽNJE,2019-02-01,Mandinić,Đurđa
+ČAS VOŽNJE,2019-02-01,Kokorić,Ćirilo
+UPLATA-2967.62,2019-02-01,Trokić,Savo
+UPLATA-1765.14,2019-02-02,Rekavić,Ilija
+ČAS TEORIJE,2019-02-02,Rekavić,Ilija
+ČAS TEORIJE,2019-02-02,Bekić,Savatije
+ČAS TEORIJE,2019-02-02,Prokić,Rajka
+ČAS TEORIJE,2019-02-02,Trokić,Savo
+UPLATA-2269.20,2019-02-02,Vrugić,Julka
+ČAS VOŽNJE,2019-02-03,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-02-03,Alavantić,Jovica
+UPLATA-1943.22,2019-02-03,Drakić,Radovinka
+ČAS TEORIJE,2019-02-03,Sjeničić,Savan
+ČAS TEORIJE,2019-02-03,Krstinić,Krstimir
+UPLATA-28.39,2019-02-04,Kravić,Adelina
+ČAS TEORIJE,2019-02-04,Valčić,Darka
+UPLATA-1255.90,2019-02-04,Kilić,Dragosav
+UPLATA-1410.38,2019-02-04,Kopčalić,Rekula
+UPLATA-501.64,2019-02-04,Krstinić,Krstimir
+ČAS TEORIJE,2019-02-05,Poznić,Dario
+UPLATA-1748.05,2019-02-05,Jekić,Laza
+UPLATA-1001.47,2019-02-05,Kurdulić,Ratibor
+ČAS TEORIJE,2019-02-05,Ćuić,Marijana
+ČAS VOŽNJE,2019-02-05,Stakušić,Borjanka
+ČAS VOŽNJE,2019-02-06,Porobić,Vasiljko
+UPLATA-39.85,2019-02-06,Bekić,Savatije
+UPLATA-2121.39,2019-02-06,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-02-06,Broćić,Vojimir
+ČAS TEORIJE,2019-02-06,Lukičić,Gospava
+ČAS TEORIJE,2019-02-06,Kopčalić,Stribor
+ČAS TEORIJE,2019-02-07,Kovčić,Dobrosav
+UPLATA-2723.97,2019-02-07,Budalić,Krstivoje
+ČAS TEORIJE,2019-02-07,Ćuić,Marijana
+ČAS VOŽNJE,2019-02-07,Stakušić,Borjanka
+UPLATA-1580.90,2019-02-08,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-02-08,Stankulić,Radosija
+ČAS TEORIJE,2019-02-08,Penčić,Cvijan
+UPLATA-2866.52,2019-02-08,Trlajić,Neško
+ČAS TEORIJE,2019-02-08,Kovjanić,Vera
+UPLATA-1002.43,2019-02-08,Kopčalić,Stribor
+ČAS TEORIJE,2019-02-09,Kovjanić,Vera
+UPLATA-1297.58,2019-02-09,Sjeničić,Savan
+ČAS VOŽNJE,2019-02-09,Vasikić,Vasilije
+UPLATA-1482.20,2019-02-09,Malečić,Miroslava
+ČAS VOŽNJE,2019-02-09,Drapić,Cvetan
+ČAS VOŽNJE,2019-02-09,Koplić,Žikica
+ČAS TEORIJE,2019-02-10,Rekavić,Ilija
+UPLATA-1806.79,2019-02-10,Ananić,Andrija
+ČAS VOŽNJE,2019-02-10,Sofijanić,Alimpije
+ČAS TEORIJE,2019-02-10,Kravić,Adelina
+ČAS TEORIJE,2019-02-10,Pestorić,Mitra
+ČAS TEORIJE,2019-02-10,Bjeletić,Momir
+ČAS VOŽNJE,2019-02-11,Ordagić,Zlatan
+ČAS VOŽNJE,2019-02-11,Ušendić,Radoš
+ČAS VOŽNJE,2019-02-11,Plemić,Plamenka
+ČAS VOŽNJE,2019-02-11,Porobić,Vasiljko
+ČAS TEORIJE,2019-02-12,Stakušić,Borjanka
+ČAS VOŽNJE,2019-02-12,Trlajić,Neško
+ČAS TEORIJE,2019-02-12,Roljić,Smilja
+ČAS VOŽNJE,2019-02-12,Kovčić,Dobrosav
+UPLATA-354.01,2019-02-12,Guconić,Vukola
+ČAS TEORIJE,2019-02-12,Drapić,Cvetan
+ČAS TEORIJE,2019-02-13,Savelić,Gordan
+UPLATA-2367.30,2019-02-13,Lozić,Pokrajac
+ČAS VOŽNJE,2019-02-13,Bjeletić,Momir
+ČAS VOŽNJE,2019-02-13,Mandinić,Đurđa
+UPLATA-774.79,2019-02-14,Kurdulić,Ratibor
+UPLATA-645.47,2019-02-14,Bikić,Đuro
+ČAS TEORIJE,2019-02-14,Lozić,Pokrajac
+ČAS VOŽNJE,2019-02-15,Puhalić,Perica
+ČAS VOŽNJE,2019-02-15,Kravić,Adelina
+ČAS TEORIJE,2019-02-15,Anđušić,Ismail
+ČAS VOŽNJE,2019-02-16,Tršić,Jevto
+ČAS TEORIJE,2019-02-16,Sofijanić,Alimpije
+ČAS TEORIJE,2019-02-16,Andesilić,Zvjezdan
+UPLATA-2429.16,2019-02-16,Trlajić,Neško
+ČAS TEORIJE,2019-02-17,Stakušić,Borjanka
+ČAS TEORIJE,2019-02-17,Krstinić,Krstimir
+UPLATA-2724.65,2019-02-17,Sjeničić,Savan
+UPLATA-2384.85,2019-02-17,Trokić,Savo
+ČAS VOŽNJE,2019-02-17,Trokić,Savo
+ČAS TEORIJE,2019-02-18,Puhalić,Perica
+ČAS VOŽNJE,2019-02-18,Kiklić,Radoslava
+ČAS VOŽNJE,2019-02-18,Jovčetić,Radika
+ČAS TEORIJE,2019-02-18,Jekić,Laza
+UPLATA-1526.08,2019-02-19,Puhalić,Perica
+ČAS TEORIJE,2019-02-19,Guconić,Vukola
+UPLATA-260.42,2019-02-19,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-02-19,Stjepić,Velemir
+UPLATA-2527.14,2019-02-20,Porobić,Vasiljko
+ČAS VOŽNJE,2019-02-20,Lukičić,Gospava
+ČAS TEORIJE,2019-02-20,Kurdulić,Ratibor
+ČAS VOŽNJE,2019-02-20,Kravić,Adelina
+ČAS VOŽNJE,2019-02-20,Kepić,Melanija
+ČAS TEORIJE,2019-02-21,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-02-21,Ljubić,Zlata
+UPLATA-592.63,2019-02-21,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-02-21,Guconić,Vukola
+ČAS VOŽNJE,2019-02-21,Stakušić,Borjanka
+ČAS VOŽNJE,2019-02-22,Bobičić,Tanasije
+ČAS VOŽNJE,2019-02-22,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-02-22,Dulikravić,Gvozden
+ČAS TEORIJE,2019-02-22,Malečić,Miroslava
+ČAS VOŽNJE,2019-02-22,Ćuić,Marijana
+UPLATA-2468.23,2019-02-23,Ćuić,Marijana
+ČAS TEORIJE,2019-02-23,Guconić,Vukola
+ČAS TEORIJE,2019-02-23,Bobičić,Žitomir
+ČAS VOŽNJE,2019-02-23,Kuveljić,Rada
+ČAS VOŽNJE,2019-02-23,Pupić,Ilija
+UPLATA-2962.99,2019-02-24,Valčić,Darka
+ČAS VOŽNJE,2019-02-24,Kilić,Dragosav
+ČAS VOŽNJE,2019-02-24,Anđušić,Ismail
+ČAS TEORIJE,2019-02-25,Đinđić,Miljojko
+ČAS VOŽNJE,2019-02-25,Bobičić,Žitomir
+ČAS VOŽNJE,2019-02-25,Bjeletić,Momir
+ČAS TEORIJE,2019-02-25,Dajić,Njegomir
+UPLATA-761.42,2019-02-26,Murišić,Branisav
+UPLATA-237.10,2019-02-26,Malečić,Miroslava
+ČAS TEORIJE,2019-02-26,Pupić,Ilija
+UPLATA-212.44,2019-02-26,Kurdulić,Ratibor
+ČAS TEORIJE,2019-02-26,Guconić,Vukola
+ČAS TEORIJE,2019-02-26,Broćić,Vojimir
+ČAS TEORIJE,2019-02-27,Bobičić,Žitomir
+UPLATA-2896.31,2019-02-27,Porobić,Vasiljko
+UPLATA-2468.43,2019-02-27,Malečić,Miroslava
+UPLATA-1809.52,2019-02-27,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-02-27,Ćupić,Miladin
+ČAS TEORIJE,2019-02-28,Stakušić,Borjanka
+ČAS VOŽNJE,2019-02-28,Kokorić,Ćirilo
+ČAS TEORIJE,2019-02-28,Valčić,Darka
+ČAS VOŽNJE,2019-02-28,Pestorić,Mitra
+UPLATA-21.71,2019-03-01,Kuveljić,Rada
+ČAS TEORIJE,2019-03-01,Kopčalić,Rekula
+ČAS TEORIJE,2019-03-01,Kepić,Melanija
+ČAS VOŽNJE,2019-03-01,Roljić,Smilja
+ČAS VOŽNJE,2019-03-02,Trokić,Savo
+ČAS VOŽNJE,2019-03-02,Bjeletić,Momir
+ČAS TEORIJE,2019-03-02,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-03-02,Drakić,Radovinka
+ČAS TEORIJE,2019-03-02,Penčić,Cvijan
+ČAS VOŽNJE,2019-03-02,Rakulić,Trivko
+ČAS TEORIJE,2019-03-03,Kovjanić,Vera
+UPLATA-2411.30,2019-03-03,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-03-03,Biljurić,Vlado
+ČAS VOŽNJE,2019-03-03,Kiklić,Radoslava
+ČAS VOŽNJE,2019-03-04,Kurdulić,Ratibor
+ČAS VOŽNJE,2019-03-04,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-03-04,Budalić,Krstivoje
+ČAS VOŽNJE,2019-03-04,Biljurić,Vlado
+UPLATA-1456.77,2019-03-04,Kopčalić,Stribor
+UPLATA-1216.31,2019-03-04,Guconić,Vukola
+UPLATA-1575.39,2019-03-05,Penčić,Cvijan
+UPLATA-2741.24,2019-03-05,Penčić,Cvijan
+ČAS TEORIJE,2019-03-05,Mandinić,Đurđa
+ČAS TEORIJE,2019-03-05,Pajagić,Jorgovanka
+UPLATA-655.99,2019-03-05,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-03-06,Rakulić,Trivko
+ČAS TEORIJE,2019-03-06,Trokić,Savo
+ČAS VOŽNJE,2019-03-06,Jekić,Laza
+UPLATA-1366.19,2019-03-06,Penčić,Cvijan
+ČAS TEORIJE,2019-03-06,Bjeletić,Momir
+ČAS VOŽNJE,2019-03-07,Salatić,Boin
+ČAS TEORIJE,2019-03-07,Vasikić,Vasilije
+UPLATA-741.06,2019-03-07,Penčić,Cvijan
+ČAS VOŽNJE,2019-03-07,Jekić,Laza
+ČAS VOŽNJE,2019-03-08,Pajić,Ozriša
+ČAS VOŽNJE,2019-03-08,Anđušić,Ismail
+UPLATA-1761.87,2019-03-08,Broćić,Vojimir
+ČAS VOŽNJE,2019-03-08,Porobić,Vasiljko
+UPLATA-2691.47,2019-03-09,Trlajić,Neško
+ČAS VOŽNJE,2019-03-09,Ananić,Andrija
+UPLATA-2419.43,2019-03-09,Ljubić,Zlata
+ČAS TEORIJE,2019-03-09,Prokić,Rajka
+UPLATA-1585.87,2019-03-09,Jovčetić,Radika
+ČAS TEORIJE,2019-03-10,Prendić,Kosana
+ČAS VOŽNJE,2019-03-10,Stjepić,Velemir
+UPLATA-389.42,2019-03-10,Čohadžić,Milorad
+UPLATA-2232.36,2019-03-10,Tršić,Jevto
+UPLATA-2681.75,2019-03-11,Pupić,Ilija
+ČAS TEORIJE,2019-03-11,Pupić,Ilija
+UPLATA-2839.32,2019-03-11,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-03-11,Ušendić,Radoš
+ČAS TEORIJE,2019-03-11,Murišić,Branisav
+ČAS TEORIJE,2019-03-12,Stankulić,Radosija
+ČAS TEORIJE,2019-03-12,Bekić,Savatije
+ČAS TEORIJE,2019-03-12,Roksandić,Stefana
+ČAS VOŽNJE,2019-03-12,Krstinić,Krstimir
+UPLATA-711.93,2019-03-13,Ljoljić,Mirčeta
+UPLATA-889.97,2019-03-13,Pupić,Ilija
+ČAS VOŽNJE,2019-03-13,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-03-13,Penčić,Cvijan
+UPLATA-1000.55,2019-03-13,Bobičić,Tanasije
+ČAS VOŽNJE,2019-03-13,Ljoljić,Mirčeta
+UPLATA-162.47,2019-03-14,Poznić,Dario
+ČAS VOŽNJE,2019-03-14,Kepić,Melanija
+ČAS TEORIJE,2019-03-14,Malečić,Miroslava
+ČAS TEORIJE,2019-03-14,Puhalić,Perica
+ČAS VOŽNJE,2019-03-14,Stankulić,Radosija
+UPLATA-2366.81,2019-03-14,Đinđić,Miljojko
+ČAS TEORIJE,2019-03-15,Sjeničić,Savan
+UPLATA-1077.50,2019-03-15,Anđušić,Ismail
+ČAS TEORIJE,2019-03-15,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-03-15,Vrugić,Julka
+ČAS TEORIJE,2019-03-15,Sjeničić,Savan
+ČAS TEORIJE,2019-03-16,Nerić,Vidoja
+ČAS VOŽNJE,2019-03-16,Ljubić,Zlata
+ČAS TEORIJE,2019-03-16,Rakulić,Trivko
+UPLATA-220.74,2019-03-16,Andesilić,Zvjezdan
+UPLATA-2940.65,2019-03-17,Buharić,Đuraško
+ČAS TEORIJE,2019-03-17,Kuveljić,Rada
+ČAS TEORIJE,2019-03-17,Sjeničić,Savan
+UPLATA-2200.35,2019-03-17,Trokić,Savo
+ČAS VOŽNJE,2019-03-17,Savelić,Gordan
+ČAS VOŽNJE,2019-03-18,Guconić,Vukola
+ČAS VOŽNJE,2019-03-18,Rekavić,Ilija
+ČAS TEORIJE,2019-03-18,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-03-18,Rakulić,Trivko
+ČAS VOŽNJE,2019-03-18,Đinđić,Miljojko
+UPLATA-2047.75,2019-03-19,Kovčić,Dobrosav
+UPLATA-1623.34,2019-03-19,Malečić,Miroslava
+ČAS VOŽNJE,2019-03-19,Ordagić,Zlatan
+ČAS VOŽNJE,2019-03-19,Kuveljić,Rada
+ČAS TEORIJE,2019-03-19,Rekavić,Ilija
+ČAS VOŽNJE,2019-03-20,Rekavić,Ilija
+ČAS VOŽNJE,2019-03-20,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-03-20,Ljoljić,Mirčeta
+ČAS TEORIJE,2019-03-20,Roljić,Smilja
+ČAS TEORIJE,2019-03-21,Murišić,Branisav
+ČAS VOŽNJE,2019-03-21,Sofijanić,Alimpije
+ČAS TEORIJE,2019-03-21,Salatić,Boin
+ČAS TEORIJE,2019-03-21,Rekavić,Ilija
+ČAS VOŽNJE,2019-03-21,Rekavić,Ilija
+ČAS VOŽNJE,2019-03-22,Lukičić,Gospava
+ČAS TEORIJE,2019-03-22,Đinđić,Miljojko
+UPLATA-120.62,2019-03-22,Kepić,Melanija
+ČAS TEORIJE,2019-03-22,Kepić,Melanija
+ČAS TEORIJE,2019-03-23,Murišić,Branisav
+UPLATA-730.93,2019-03-24,Tršić,Jevto
+UPLATA-908.40,2019-03-24,Kiklić,Radoslava
+ČAS TEORIJE,2019-03-24,Lukičić,Gospava
+ČAS VOŽNJE,2019-03-24,Malečić,Miroslava
+UPLATA-1713.38,2019-03-25,Kravić,Adelina
+ČAS VOŽNJE,2019-03-25,Sjeničić,Savan
+UPLATA-2066.72,2019-03-25,Puhalić,Perica
+ČAS TEORIJE,2019-03-25,Krstinić,Krstimir
+ČAS VOŽNJE,2019-03-26,Salatić,Boin
+UPLATA-1464.55,2019-03-26,Dulikravić,Gvozden
+ČAS TEORIJE,2019-03-26,Trokić,Savo
+UPLATA-1231.96,2019-03-26,Roljić,Smilja
+ČAS VOŽNJE,2019-03-27,Dajić,Njegomir
+UPLATA-499.19,2019-03-27,Mandinić,Đurđa
+UPLATA-1501.21,2019-03-27,Pupić,Ilija
+UPLATA-1774.65,2019-03-27,Bjeletić,Momir
+ČAS TEORIJE,2019-03-27,Drakić,Radovinka
+ČAS TEORIJE,2019-03-27,Stjepić,Velemir
+ČAS TEORIJE,2019-03-28,Trokić,Savo
+ČAS VOŽNJE,2019-03-28,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-03-28,Salatić,Boin
+ČAS VOŽNJE,2019-03-28,Mandinić,Đurđa
+ČAS TEORIJE,2019-03-28,Prendić,Kosana
+ČAS VOŽNJE,2019-03-29,Buharić,Đuraško
+UPLATA-2149.83,2019-03-29,Poznić,Dario
+ČAS TEORIJE,2019-03-29,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-03-29,Kuveljić,Rada
+UPLATA-2597.69,2019-03-29,Pajić,Ozriša
+ČAS TEORIJE,2019-03-30,Roljić,Smilja
+UPLATA-2845.68,2019-03-30,Kokorić,Ćirilo
+UPLATA-2013.54,2019-03-30,Prendić,Kosana
+ČAS VOŽNJE,2019-03-31,Lukičić,Gospava
+ČAS TEORIJE,2019-03-31,Dulikravić,Gvozden
+UPLATA-824.18,2019-03-31,Budalić,Krstivoje
+UPLATA-923.73,2019-03-31,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-03-31,Ćuić,Marijana
+ČAS VOŽNJE,2019-04-01,Porobić,Vasiljko
+ČAS TEORIJE,2019-04-01,Roljić,Smilja
+ČAS VOŽNJE,2019-04-01,Stakušić,Borjanka
+UPLATA-1843.41,2019-04-01,Malečić,Miroslava
+UPLATA-2141.46,2019-04-02,Krstinić,Krstimir
+UPLATA-1922.43,2019-04-02,Trokić,Savo
+ČAS TEORIJE,2019-04-02,Jovčetić,Radika
+UPLATA-2424.64,2019-04-02,Biljurić,Vlado
+UPLATA-2018.92,2019-04-02,Ananić,Andrija
+ČAS VOŽNJE,2019-04-03,Trlajić,Neško
+UPLATA-1580.04,2019-04-03,Vasikić,Vasilije
+UPLATA-1732.70,2019-04-03,Kilić,Dragosav
+ČAS VOŽNJE,2019-04-03,Anđušić,Ismail
+UPLATA-2735.36,2019-04-04,Vrugić,Julka
+UPLATA-638.68,2019-04-04,Alavantić,Jovica
+ČAS TEORIJE,2019-04-05,Kopčalić,Stribor
+ČAS TEORIJE,2019-04-05,Sjeničić,Savan
+ČAS VOŽNJE,2019-04-05,Bobičić,Tanasije
+ČAS TEORIJE,2019-04-05,Bobičić,Žitomir
+ČAS VOŽNJE,2019-04-05,Bekić,Savatije
+ČAS VOŽNJE,2019-04-06,Trlajić,Neško
+ČAS TEORIJE,2019-04-06,Penčić,Cvijan
+ČAS TEORIJE,2019-04-06,Bekić,Savatije
+UPLATA-2812.49,2019-04-06,Ljubić,Zlata
+ČAS TEORIJE,2019-04-06,Kovjanić,Vera
+UPLATA-2869.91,2019-04-07,Kuveljić,Rada
+UPLATA-999.86,2019-04-07,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-04-07,Bekić,Savatije
+UPLATA-2179.22,2019-04-07,Kokorić,Ćirilo
+ČAS TEORIJE,2019-04-08,Kilić,Dragosav
+ČAS VOŽNJE,2019-04-08,Kovčić,Dobrosav
+ČAS TEORIJE,2019-04-08,Savelić,Gordan
+ČAS TEORIJE,2019-04-08,Anđušić,Ismail
+ČAS TEORIJE,2019-04-09,Stankulić,Radosija
+ČAS TEORIJE,2019-04-09,Pestorić,Mitra
+ČAS TEORIJE,2019-04-09,Sinđelić,Đurđica
+UPLATA-2596.05,2019-04-09,Ordagić,Zlatan
+ČAS VOŽNJE,2019-04-09,Dulikravić,Gvozden
+ČAS TEORIJE,2019-04-09,Ćuić,Marijana
+UPLATA-927.71,2019-04-10,Valčić,Darka
+UPLATA-2380.88,2019-04-10,Porobić,Vasiljko
+ČAS TEORIJE,2019-04-10,Ananić,Andrija
+ČAS TEORIJE,2019-04-11,Kravić,Adelina
+UPLATA-2775.57,2019-04-11,Dajić,Njegomir
+UPLATA-2304.53,2019-04-11,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-04-11,Poznić,Dario
+ČAS VOŽNJE,2019-04-12,Puhalić,Perica
+ČAS VOŽNJE,2019-04-12,Trokić,Savo
+ČAS VOŽNJE,2019-04-12,Sofijanić,Alimpije
+ČAS TEORIJE,2019-04-12,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-04-13,Dajić,Njegomir
+ČAS TEORIJE,2019-04-13,Lukičić,Gospava
+ČAS TEORIJE,2019-04-13,Kravić,Adelina
+UPLATA-327.75,2019-04-13,Jovčetić,Radika
+ČAS TEORIJE,2019-04-13,Salatić,Boin
+ČAS TEORIJE,2019-04-14,Trokić,Savo
+ČAS TEORIJE,2019-04-14,Ananić,Andrija
+UPLATA-2973.96,2019-04-14,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-04-14,Rekavić,Ilija
+ČAS VOŽNJE,2019-04-14,Ljoljić,Mirčeta
+ČAS TEORIJE,2019-04-15,Ušendić,Radoš
+UPLATA-2607.34,2019-04-15,Malečić,Miroslava
+UPLATA-472.60,2019-04-15,Kovčić,Dobrosav
+UPLATA-1357.34,2019-04-15,Salatić,Boin
+ČAS TEORIJE,2019-04-16,Broćić,Vojimir
+ČAS VOŽNJE,2019-04-16,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-04-16,Folić,Jelisav
+ČAS TEORIJE,2019-04-16,Kopčalić,Rekula
+ČAS TEORIJE,2019-04-16,Ljubić,Zlata
+ČAS VOŽNJE,2019-04-16,Malečić,Miroslava
+ČAS TEORIJE,2019-04-17,Roksandić,Stefana
+UPLATA-1205.56,2019-04-17,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-04-17,Guconić,Vukola
+ČAS TEORIJE,2019-04-17,Vasikić,Vasilije
+ČAS VOŽNJE,2019-04-18,Vasikić,Vasilije
+UPLATA-604.56,2019-04-19,Salatić,Boin
+ČAS TEORIJE,2019-04-19,Vasikić,Vasilije
+UPLATA-1647.54,2019-04-19,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-04-19,Vasikić,Vasilije
+UPLATA-942.78,2019-04-19,Ušendić,Radoš
+ČAS TEORIJE,2019-04-20,Kepić,Melanija
+UPLATA-1075.90,2019-04-20,Bobičić,Žitomir
+UPLATA-1207.79,2019-04-20,Kuveljić,Rada
+ČAS VOŽNJE,2019-04-20,Trokić,Savo
+UPLATA-1693.33,2019-04-20,Ananić,Andrija
+UPLATA-2374.00,2019-04-21,Roljić,Smilja
+UPLATA-757.40,2019-04-21,Poznić,Dario
+UPLATA-534.27,2019-04-22,Ćupić,Miladin
+ČAS TEORIJE,2019-04-22,Roksandić,Stefana
+UPLATA-375.94,2019-04-22,Kovčić,Dobrosav
+ČAS TEORIJE,2019-04-22,Bekić,Savatije
+ČAS VOŽNJE,2019-04-23,Vasikić,Vasilije
+ČAS VOŽNJE,2019-04-23,Valčić,Darka
+ČAS VOŽNJE,2019-04-23,Tršić,Jevto
+ČAS VOŽNJE,2019-04-23,Jekić,Laza
+UPLATA-2087.05,2019-04-23,Ćupić,Miladin
+ČAS TEORIJE,2019-04-24,Puhalić,Perica
+ČAS TEORIJE,2019-04-24,Bobičić,Tanasije
+ČAS VOŽNJE,2019-04-24,Jekić,Laza
+ČAS TEORIJE,2019-04-24,Ušendić,Radoš
+UPLATA-2783.39,2019-04-24,Trlajić,Neško
+ČAS VOŽNJE,2019-04-24,Porobić,Vasiljko
+ČAS VOŽNJE,2019-04-25,Malečić,Miroslava
+UPLATA-1098.20,2019-04-25,Puhalić,Perica
+ČAS TEORIJE,2019-04-25,Rakulić,Trivko
+ČAS TEORIJE,2019-04-25,Bjeletić,Momir
+ČAS TEORIJE,2019-04-26,Jekić,Laza
+ČAS VOŽNJE,2019-04-26,Mandinić,Đurđa
+UPLATA-2608.09,2019-04-26,Ćuić,Marijana
+ČAS VOŽNJE,2019-04-27,Savelić,Gordan
+ČAS TEORIJE,2019-04-27,Jovčetić,Radika
+ČAS VOŽNJE,2019-04-27,Kaldesić,Petronije
+ČAS TEORIJE,2019-04-27,Poznić,Dario
+ČAS TEORIJE,2019-04-27,Pupić,Ilija
+ČAS VOŽNJE,2019-04-27,Sjeničić,Savan
+UPLATA-563.85,2019-04-28,Porobić,Vasiljko
+ČAS TEORIJE,2019-04-28,Tršić,Jevto
+ČAS TEORIJE,2019-04-28,Bikić,Đuro
+ČAS TEORIJE,2019-04-29,Mandinić,Đurđa
+UPLATA-169.99,2019-04-29,Kaldesić,Petronije
+ČAS VOŽNJE,2019-04-29,Broćić,Vojimir
+ČAS TEORIJE,2019-04-29,Ćuić,Marijana
+ČAS VOŽNJE,2019-04-29,Plemić,Plamenka
+ČAS TEORIJE,2019-04-29,Poznić,Dario
+ČAS VOŽNJE,2019-04-30,Porobić,Vasiljko
+ČAS VOŽNJE,2019-04-30,Tršić,Jevto
+ČAS TEORIJE,2019-04-30,Sjeničić,Savan
+ČAS VOŽNJE,2019-04-30,Bobičić,Tanasije
+ČAS TEORIJE,2019-04-30,Trokić,Savo
+UPLATA-1992.89,2019-05-01,Bjeletić,Momir
+ČAS VOŽNJE,2019-05-01,Salatić,Boin
+ČAS TEORIJE,2019-05-01,Alavantić,Jovica
+UPLATA-1617.93,2019-05-01,Pupić,Ilija
+UPLATA-2912.89,2019-05-02,Mandinić,Đurđa
+ČAS TEORIJE,2019-05-02,Plemić,Plamenka
+UPLATA-1012.72,2019-05-02,Đinđić,Miljojko
+UPLATA-173.33,2019-05-02,Ljubić,Zlata
+ČAS VOŽNJE,2019-05-03,Bjeletić,Momir
+UPLATA-194.68,2019-05-03,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-05-03,Ananić,Andrija
+ČAS VOŽNJE,2019-05-03,Krstinić,Krstimir
+ČAS TEORIJE,2019-05-03,Trokić,Savo
+ČAS TEORIJE,2019-05-04,Kuveljić,Rada
+ČAS TEORIJE,2019-05-04,Sinđelić,Đurđica
+ČAS TEORIJE,2019-05-04,Anđušić,Ismail
+ČAS VOŽNJE,2019-05-04,Đinđić,Miljojko
+ČAS TEORIJE,2019-05-04,Penčić,Cvijan
+UPLATA-614.66,2019-05-04,Prokić,Rajka
+UPLATA-2549.67,2019-05-05,Koplić,Žikica
+ČAS VOŽNJE,2019-05-05,Prendić,Kosana
+ČAS TEORIJE,2019-05-05,Đinđić,Miljojko
+UPLATA-802.23,2019-05-06,Stjepić,Velemir
+ČAS TEORIJE,2019-05-06,Prendić,Kosana
+ČAS TEORIJE,2019-05-06,Roljić,Smilja
+ČAS VOŽNJE,2019-05-06,Prendić,Kosana
+ČAS VOŽNJE,2019-05-07,Paninčić,Tihomir
+ČAS TEORIJE,2019-05-07,Bikić,Đuro
+ČAS TEORIJE,2019-05-07,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-05-07,Murišić,Branisav
+UPLATA-893.79,2019-05-08,Kravić,Adelina
+ČAS VOŽNJE,2019-05-08,Sjeničić,Savan
+ČAS TEORIJE,2019-05-08,Krstinić,Krstimir
+UPLATA-2914.68,2019-05-08,Bjeletić,Momir
+ČAS TEORIJE,2019-05-08,Drakić,Radovinka
+ČAS VOŽNJE,2019-05-09,Ćuić,Marijana
+UPLATA-449.40,2019-05-09,Kepić,Melanija
+UPLATA-1511.65,2019-05-09,Lozić,Pokrajac
+ČAS TEORIJE,2019-05-09,Pupić,Ilija
+ČAS VOŽNJE,2019-05-10,Trlajić,Neško
+ČAS VOŽNJE,2019-05-10,Rekavić,Ilija
+UPLATA-2348.82,2019-05-10,Jekić,Laza
+UPLATA-2280.04,2019-05-11,Kuveljić,Rada
+ČAS VOŽNJE,2019-05-11,Vasikić,Vasilije
+ČAS VOŽNJE,2019-05-11,Poznić,Dario
+UPLATA-1656.77,2019-05-11,Lukičić,Gospava
+ČAS VOŽNJE,2019-05-11,Trlajić,Neško
+ČAS TEORIJE,2019-05-11,Sjeničić,Savan
+ČAS TEORIJE,2019-05-12,Kuveljić,Rada
+UPLATA-2701.84,2019-05-12,Dulikravić,Gvozden
+UPLATA-641.43,2019-05-12,Drakić,Radovinka
+ČAS TEORIJE,2019-05-12,Malečić,Miroslava
+UPLATA-1545.30,2019-05-12,Čohadžić,Milorad
+ČAS TEORIJE,2019-05-12,Kuveljić,Rada
+ČAS TEORIJE,2019-05-13,Kovčić,Dobrosav
+UPLATA-1191.49,2019-05-13,Nerić,Vidoja
+ČAS TEORIJE,2019-05-13,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-05-13,Anđušić,Ismail
+UPLATA-2539.22,2019-05-13,Kopčalić,Stribor
+ČAS VOŽNJE,2019-05-13,Prendić,Kosana
+UPLATA-1007.99,2019-05-14,Nerić,Vidoja
+ČAS TEORIJE,2019-05-14,Nerić,Vidoja
+UPLATA-461.59,2019-05-14,Lukičić,Gospava
+ČAS VOŽNJE,2019-05-14,Savelić,Gordan
+ČAS TEORIJE,2019-05-14,Paninčić,Tihomir
+ČAS VOŽNJE,2019-05-15,Ćuić,Marijana
+ČAS VOŽNJE,2019-05-15,Rekavić,Ilija
+UPLATA-823.78,2019-05-15,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-05-15,Sinđelić,Đurđica
+ČAS TEORIJE,2019-05-15,Pajić,Ozriša
+ČAS VOŽNJE,2019-05-16,Malečić,Miroslava
+ČAS TEORIJE,2019-05-16,Kopčalić,Stribor
+ČAS VOŽNJE,2019-05-16,Stjepić,Velemir
+UPLATA-905.21,2019-05-16,Ćupić,Miladin
+ČAS TEORIJE,2019-05-16,Biljurić,Vlado
+ČAS TEORIJE,2019-05-17,Vasikić,Vasilije
+ČAS VOŽNJE,2019-05-17,Lozić,Pokrajac
+ČAS TEORIJE,2019-05-17,Savelić,Gordan
+ČAS TEORIJE,2019-05-17,Anđušić,Ismail
+ČAS VOŽNJE,2019-05-17,Penčić,Cvijan
+ČAS TEORIJE,2019-05-17,Kopčalić,Rekula
+UPLATA-1158.88,2019-05-18,Nerić,Vidoja
+UPLATA-1735.85,2019-05-18,Stjepić,Velemir
+ČAS TEORIJE,2019-05-18,Kaldesić,Petronije
+ČAS TEORIJE,2019-05-18,Kokorić,Ćirilo
+ČAS TEORIJE,2019-05-19,Roksandić,Stefana
+ČAS TEORIJE,2019-05-19,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-05-19,Pupić,Ilija
+UPLATA-1528.29,2019-05-19,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-05-19,Penčić,Cvijan
+ČAS TEORIJE,2019-05-19,Porobić,Vasiljko
+UPLATA-2289.64,2019-05-20,Pajagić,Jorgovanka
+UPLATA-733.89,2019-05-20,Drakić,Radovinka
+ČAS VOŽNJE,2019-05-20,Buharić,Đuraško
+UPLATA-2230.46,2019-05-21,Murišić,Branisav
+ČAS VOŽNJE,2019-05-21,Alavantić,Jovica
+UPLATA-2090.97,2019-05-21,Kurdulić,Ratibor
+ČAS TEORIJE,2019-05-21,Malečić,Miroslava
+UPLATA-1097.12,2019-05-22,Paninčić,Tihomir
+UPLATA-252.93,2019-05-22,Roksandić,Stefana
+ČAS VOŽNJE,2019-05-22,Valčić,Darka
+ČAS VOŽNJE,2019-05-22,Vrugić,Julka
+ČAS VOŽNJE,2019-05-22,Murišić,Branisav
+ČAS TEORIJE,2019-05-22,Roksandić,Stefana
+ČAS TEORIJE,2019-05-23,Rekavić,Ilija
+UPLATA-1528.59,2019-05-23,Biljurić,Vlado
+UPLATA-1549.11,2019-05-23,Kilić,Dragosav
+ČAS TEORIJE,2019-05-23,Kokorić,Ćirilo
+UPLATA-445.39,2019-05-24,Buharić,Đuraško
+ČAS VOŽNJE,2019-05-24,Čohadžić,Milorad
+UPLATA-1514.54,2019-05-24,Sjeničić,Savan
+ČAS VOŽNJE,2019-05-24,Penčić,Cvijan
+UPLATA-1261.85,2019-05-25,Broćić,Vojimir
+UPLATA-131.88,2019-05-25,Bobičić,Tanasije
+ČAS TEORIJE,2019-05-25,Malečić,Miroslava
+ČAS TEORIJE,2019-05-26,Prendić,Kosana
+ČAS TEORIJE,2019-05-26,Ljubić,Zlata
+ČAS VOŽNJE,2019-05-26,Rakulić,Trivko
+ČAS TEORIJE,2019-05-27,Trokić,Savo
+UPLATA-38.78,2019-05-27,Penčić,Cvijan
+UPLATA-2757.87,2019-05-27,Stjepić,Velemir
+UPLATA-2862.58,2019-05-27,Prendić,Kosana
+ČAS TEORIJE,2019-05-27,Roksandić,Stefana
+ČAS TEORIJE,2019-05-28,Bobičić,Žitomir
+ČAS TEORIJE,2019-05-28,Stakušić,Borjanka
+ČAS VOŽNJE,2019-05-28,Murišić,Branisav
+UPLATA-561.23,2019-05-28,Trokić,Savo
+ČAS VOŽNJE,2019-05-28,Kuveljić,Rada
+UPLATA-159.35,2019-05-29,Anđušić,Ismail
+ČAS VOŽNJE,2019-05-29,Bekić,Savatije
+ČAS VOŽNJE,2019-05-29,Guconić,Vukola
+ČAS TEORIJE,2019-05-29,Stjepić,Velemir
+UPLATA-2655.34,2019-05-29,Kilić,Dragosav
+UPLATA-2034.74,2019-05-30,Kokorić,Ćirilo
+ČAS TEORIJE,2019-05-30,Tršić,Jevto
+UPLATA-1640.50,2019-05-30,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-05-30,Kopčalić,Stribor
+ČAS TEORIJE,2019-05-30,Krstinić,Krstimir
+ČAS TEORIJE,2019-05-31,Kovjanić,Vera
+ČAS VOŽNJE,2019-05-31,Buharić,Đuraško
+ČAS TEORIJE,2019-05-31,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-05-31,Kaldesić,Petronije
+ČAS VOŽNJE,2019-06-01,Roljić,Smilja
+ČAS TEORIJE,2019-06-01,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-06-01,Biljurić,Vlado
+ČAS TEORIJE,2019-06-01,Ljubić,Zlata
+UPLATA-2918.36,2019-06-01,Rekavić,Ilija
+UPLATA-1994.50,2019-06-02,Paninčić,Tihomir
+UPLATA-1940.53,2019-06-02,Dulikravić,Gvozden
+UPLATA-43.55,2019-06-02,Trlajić,Neško
+ČAS VOŽNJE,2019-06-02,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-06-02,Kilić,Dragosav
+UPLATA-2816.67,2019-06-02,Prokić,Rajka
+ČAS TEORIJE,2019-06-03,Jekić,Laza
+ČAS TEORIJE,2019-06-03,Pestorić,Mitra
+ČAS TEORIJE,2019-06-04,Lukičić,Gospava
+ČAS VOŽNJE,2019-06-04,Penčić,Cvijan
+UPLATA-144.85,2019-06-04,Kopčalić,Rekula
+UPLATA-1837.33,2019-06-04,Rekavić,Ilija
+ČAS TEORIJE,2019-06-05,Koplić,Žikica
+ČAS TEORIJE,2019-06-05,Paninčić,Tihomir
+ČAS VOŽNJE,2019-06-05,Trlajić,Neško
+ČAS TEORIJE,2019-06-05,Jekić,Laza
+ČAS TEORIJE,2019-06-05,Stjepić,Velemir
+ČAS TEORIJE,2019-06-06,Bekić,Savatije
+ČAS TEORIJE,2019-06-06,Penčić,Cvijan
+UPLATA-2673.35,2019-06-06,Guconić,Vukola
+ČAS TEORIJE,2019-06-06,Stjepić,Velemir
+ČAS TEORIJE,2019-06-07,Lozić,Pokrajac
+ČAS TEORIJE,2019-06-07,Kurdulić,Ratibor
+ČAS TEORIJE,2019-06-07,Sinđelić,Đurđica
+UPLATA-751.67,2019-06-08,Drapić,Cvetan
+ČAS TEORIJE,2019-06-08,Ušendić,Radoš
+UPLATA-638.72,2019-06-08,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-06-08,Nerić,Vidoja
+ČAS TEORIJE,2019-06-08,Plemić,Plamenka
+ČAS TEORIJE,2019-06-09,Pajagić,Jorgovanka
+UPLATA-723.43,2019-06-09,Roksandić,Stefana
+UPLATA-2242.32,2019-06-09,Bekić,Savatije
+ČAS TEORIJE,2019-06-09,Kopčalić,Rekula
+ČAS VOŽNJE,2019-06-09,Lukičić,Gospava
+ČAS VOŽNJE,2019-06-10,Kepić,Melanija
+ČAS TEORIJE,2019-06-10,Kepić,Melanija
+UPLATA-2918.26,2019-06-10,Sjeničić,Savan
+ČAS VOŽNJE,2019-06-11,Krstinić,Krstimir
+UPLATA-2651.76,2019-06-11,Nerić,Vidoja
+UPLATA-2933.78,2019-06-11,Drakić,Radovinka
+ČAS TEORIJE,2019-06-11,Poznić,Dario
+ČAS TEORIJE,2019-06-12,Valčić,Darka
+ČAS VOŽNJE,2019-06-12,Stjepić,Velemir
+UPLATA-1594.45,2019-06-12,Ljubić,Zlata
+ČAS TEORIJE,2019-06-12,Ljubić,Zlata
+ČAS TEORIJE,2019-06-12,Ćupić,Miladin
+UPLATA-1482.71,2019-06-12,Kopčalić,Stribor
+ČAS VOŽNJE,2019-06-13,Krstinić,Krstimir
+ČAS TEORIJE,2019-06-13,Buharić,Đuraško
+ČAS VOŽNJE,2019-06-13,Alavantić,Jovica
+ČAS VOŽNJE,2019-06-13,Dajić,Njegomir
+ČAS VOŽNJE,2019-06-13,Ljubić,Zlata
+ČAS VOŽNJE,2019-06-14,Kokorić,Ćirilo
+UPLATA-2247.70,2019-06-14,Sinđelić,Đurđica
+UPLATA-1713.09,2019-06-14,Kovčić,Dobrosav
+ČAS TEORIJE,2019-06-14,Vrugić,Julka
+UPLATA-1629.84,2019-06-14,Porobić,Vasiljko
+UPLATA-2730.46,2019-06-15,Bjeletić,Momir
+UPLATA-844.39,2019-06-15,Pestorić,Mitra
+UPLATA-370.20,2019-06-15,Buharić,Đuraško
+ČAS TEORIJE,2019-06-15,Kiklić,Radoslava
+UPLATA-2062.71,2019-06-15,Bobičić,Žitomir
+UPLATA-692.20,2019-06-16,Jekić,Laza
+ČAS VOŽNJE,2019-06-16,Vasikić,Vasilije
+UPLATA-557.56,2019-06-16,Ušendić,Radoš
+UPLATA-1814.74,2019-06-16,Paninčić,Tihomir
+UPLATA-1943.99,2019-06-16,Đuračić,Hvalimir
+ČAS TEORIJE,2019-06-17,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-06-17,Ljubić,Zlata
+ČAS VOŽNJE,2019-06-17,Sjeničić,Savan
+UPLATA-1578.14,2019-06-17,Kaldesić,Petronije
+UPLATA-2040.55,2019-06-17,Krstinić,Krstimir
+UPLATA-2526.52,2019-06-17,Plemić,Plamenka
+ČAS VOŽNJE,2019-06-18,Ušendić,Radoš
+ČAS TEORIJE,2019-06-18,Trokić,Savo
+UPLATA-280.66,2019-06-19,Pajić,Ozriša
+UPLATA-720.21,2019-06-19,Bobičić,Žitomir
+UPLATA-2712.95,2019-06-19,Savelić,Gordan
+UPLATA-2396.77,2019-06-19,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-06-19,Trlajić,Neško
+ČAS TEORIJE,2019-06-19,Dajić,Njegomir
+ČAS TEORIJE,2019-06-20,Jovčetić,Radika
+UPLATA-2345.30,2019-06-20,Puhalić,Perica
+ČAS VOŽNJE,2019-06-20,Ananić,Andrija
+ČAS VOŽNJE,2019-06-20,Porobić,Vasiljko
+ČAS TEORIJE,2019-06-21,Kopčalić,Stribor
+ČAS TEORIJE,2019-06-21,Pajagić,Jorgovanka
+UPLATA-1499.32,2019-06-21,Bobičić,Žitomir
+UPLATA-1706.70,2019-06-21,Čohadžić,Milorad
+UPLATA-890.39,2019-06-21,Kovjanić,Vera
+ČAS VOŽNJE,2019-06-22,Ušendić,Radoš
+ČAS VOŽNJE,2019-06-22,Ananić,Andrija
+ČAS VOŽNJE,2019-06-23,Alavantić,Jovica
+ČAS TEORIJE,2019-06-23,Trlajić,Neško
+ČAS VOŽNJE,2019-06-23,Vrugić,Julka
+ČAS TEORIJE,2019-06-23,Roksandić,Stefana
+UPLATA-2.39,2019-06-23,Ćupić,Miladin
+ČAS TEORIJE,2019-06-23,Bobičić,Žitomir
+UPLATA-166.83,2019-06-24,Salatić,Boin
+ČAS TEORIJE,2019-06-24,Kepić,Melanija
+UPLATA-1801.53,2019-06-24,Roljić,Smilja
+ČAS TEORIJE,2019-06-24,Sinđelić,Đurđica
+UPLATA-2368.05,2019-06-25,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-06-25,Jovčetić,Radika
+ČAS TEORIJE,2019-06-25,Anđušić,Ismail
+ČAS TEORIJE,2019-06-25,Kiklić,Radoslava
+ČAS VOŽNJE,2019-06-25,Ušendić,Radoš
+UPLATA-1977.96,2019-06-25,Alavantić,Jovica
+ČAS VOŽNJE,2019-06-26,Kopčalić,Rekula
+ČAS TEORIJE,2019-06-26,Čohadžić,Milorad
+ČAS VOŽNJE,2019-06-26,Stjepić,Velemir
+UPLATA-306.58,2019-06-26,Kovčić,Dobrosav
+ČAS TEORIJE,2019-06-26,Roljić,Smilja
+ČAS TEORIJE,2019-06-27,Ćupić,Miladin
+ČAS TEORIJE,2019-06-27,Penčić,Cvijan
+ČAS TEORIJE,2019-06-27,Porobić,Vasiljko
+ČAS TEORIJE,2019-06-27,Bjeletić,Momir
+UPLATA-2803.75,2019-06-28,Rekavić,Ilija
+ČAS VOŽNJE,2019-06-28,Trokić,Savo
+ČAS TEORIJE,2019-06-28,Kokorić,Ćirilo
+ČAS TEORIJE,2019-06-28,Biljurić,Vlado
+ČAS VOŽNJE,2019-06-29,Ordagić,Zlatan
+ČAS VOŽNJE,2019-06-29,Rakulić,Trivko
+ČAS TEORIJE,2019-06-29,Drapić,Cvetan
+ČAS VOŽNJE,2019-06-29,Nerić,Vidoja
+ČAS VOŽNJE,2019-06-29,Drapić,Cvetan
+UPLATA-2749.00,2019-06-30,Bobičić,Tanasije
+UPLATA-1823.13,2019-06-30,Valčić,Darka
+ČAS TEORIJE,2019-06-30,Pupić,Ilija
+ČAS VOŽNJE,2019-06-30,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-07-01,Drapić,Cvetan
+ČAS TEORIJE,2019-07-01,Pajić,Ozriša
+UPLATA-2757.81,2019-07-02,Ušendić,Radoš
+ČAS VOŽNJE,2019-07-02,Đuračić,Hvalimir
+UPLATA-2870.47,2019-07-02,Roksandić,Stefana
+ČAS VOŽNJE,2019-07-02,Drakić,Radovinka
+ČAS VOŽNJE,2019-07-03,Roljić,Smilja
+ČAS TEORIJE,2019-07-03,Kiklić,Radoslava
+UPLATA-318.80,2019-07-03,Puhalić,Perica
+UPLATA-2948.10,2019-07-03,Jovčetić,Radika
+ČAS VOŽNJE,2019-07-03,Prokić,Rajka
+UPLATA-610.17,2019-07-04,Rekavić,Ilija
+ČAS TEORIJE,2019-07-04,Murišić,Branisav
+ČAS VOŽNJE,2019-07-04,Kiklić,Radoslava
+ČAS TEORIJE,2019-07-04,Đuračić,Hvalimir
+UPLATA-2541.22,2019-07-05,Kovjanić,Vera
+ČAS VOŽNJE,2019-07-05,Đinđić,Miljojko
+UPLATA-1440.08,2019-07-05,Kovjanić,Vera
+UPLATA-1779.89,2019-07-05,Kilić,Dragosav
+UPLATA-1070.91,2019-07-05,Pupić,Ilija
+ČAS VOŽNJE,2019-07-06,Lukičić,Gospava
+ČAS VOŽNJE,2019-07-06,Savelić,Gordan
+UPLATA-604.41,2019-07-06,Porobić,Vasiljko
+ČAS VOŽNJE,2019-07-06,Ananić,Andrija
+ČAS TEORIJE,2019-07-07,Stjepić,Velemir
+UPLATA-2160.80,2019-07-07,Kaldesić,Petronije
+ČAS TEORIJE,2019-07-07,Buharić,Đuraško
+ČAS VOŽNJE,2019-07-07,Pupić,Ilija
+ČAS TEORIJE,2019-07-07,Koplić,Žikica
+UPLATA-1884.70,2019-07-08,Pestorić,Mitra
+ČAS VOŽNJE,2019-07-08,Vasikić,Vasilije
+UPLATA-272.30,2019-07-08,Bekić,Savatije
+UPLATA-1250.34,2019-07-09,Salatić,Boin
+ČAS TEORIJE,2019-07-09,Vrugić,Julka
+ČAS VOŽNJE,2019-07-09,Trokić,Savo
+ČAS TEORIJE,2019-07-09,Roksandić,Stefana
+UPLATA-1713.36,2019-07-09,Trlajić,Neško
+ČAS VOŽNJE,2019-07-09,Guconić,Vukola
+UPLATA-156.77,2019-07-10,Rakulić,Trivko
+ČAS TEORIJE,2019-07-10,Kaldesić,Petronije
+ČAS TEORIJE,2019-07-10,Trokić,Savo
+UPLATA-694.70,2019-07-10,Kilić,Dragosav
+UPLATA-1164.93,2019-07-11,Biljurić,Vlado
+UPLATA-1555.66,2019-07-11,Bobičić,Žitomir
+ČAS VOŽNJE,2019-07-11,Koplić,Žikica
+UPLATA-1122.26,2019-07-11,Stakušić,Borjanka
+UPLATA-1836.32,2019-07-11,Lukičić,Gospava
+ČAS TEORIJE,2019-07-11,Kepić,Melanija
+ČAS VOŽNJE,2019-07-12,Malečić,Miroslava
+UPLATA-1930.88,2019-07-12,Kilić,Dragosav
+ČAS TEORIJE,2019-07-12,Rakulić,Trivko
+ČAS TEORIJE,2019-07-12,Pupić,Ilija
+ČAS VOŽNJE,2019-07-13,Bjeletić,Momir
+UPLATA-2992.17,2019-07-13,Puhalić,Perica
+ČAS VOŽNJE,2019-07-13,Guconić,Vukola
+ČAS VOŽNJE,2019-07-14,Roljić,Smilja
+ČAS TEORIJE,2019-07-14,Murišić,Branisav
+ČAS VOŽNJE,2019-07-14,Dulikravić,Gvozden
+ČAS TEORIJE,2019-07-14,Mandinić,Đurđa
+UPLATA-2992.07,2019-07-14,Penčić,Cvijan
+ČAS TEORIJE,2019-07-15,Guconić,Vukola
+ČAS TEORIJE,2019-07-15,Kopčalić,Rekula
+ČAS TEORIJE,2019-07-15,Bobičić,Tanasije
+ČAS TEORIJE,2019-07-15,Krstinić,Krstimir
+ČAS TEORIJE,2019-07-16,Drapić,Cvetan
+ČAS VOŽNJE,2019-07-16,Bekić,Savatije
+UPLATA-16.71,2019-07-16,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-07-16,Lozić,Pokrajac
+UPLATA-2650.52,2019-07-16,Jekić,Laza
+UPLATA-1822.94,2019-07-17,Prokić,Rajka
+ČAS VOŽNJE,2019-07-17,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-07-17,Roksandić,Stefana
+ČAS TEORIJE,2019-07-17,Kopčalić,Stribor
+ČAS VOŽNJE,2019-07-17,Kravić,Adelina
+ČAS VOŽNJE,2019-07-18,Buharić,Đuraško
+UPLATA-1352.16,2019-07-18,Guconić,Vukola
+ČAS VOŽNJE,2019-07-19,Savelić,Gordan
+ČAS TEORIJE,2019-07-19,Vrugić,Julka
+UPLATA-2973.62,2019-07-19,Krstinić,Krstimir
+ČAS VOŽNJE,2019-07-19,Trokić,Savo
+UPLATA-957.79,2019-07-19,Kaldesić,Petronije
+UPLATA-2345.56,2019-07-19,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-07-20,Rekavić,Ilija
+UPLATA-2667.89,2019-07-20,Bekić,Savatije
+UPLATA-1297.77,2019-07-20,Penčić,Cvijan
+ČAS VOŽNJE,2019-07-20,Broćić,Vojimir
+ČAS TEORIJE,2019-07-21,Dajić,Njegomir
+ČAS VOŽNJE,2019-07-21,Savelić,Gordan
+UPLATA-2924.21,2019-07-21,Đinđić,Miljojko
+ČAS TEORIJE,2019-07-21,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-07-22,Paninčić,Tihomir
+UPLATA-1736.39,2019-07-22,Jekić,Laza
+UPLATA-2628.21,2019-07-22,Stjepić,Velemir
+ČAS TEORIJE,2019-07-22,Kaldesić,Petronije
+ČAS VOŽNJE,2019-07-23,Prokić,Rajka
+ČAS VOŽNJE,2019-07-23,Jekić,Laza
+ČAS VOŽNJE,2019-07-23,Lukičić,Gospava
+ČAS VOŽNJE,2019-07-23,Malečić,Miroslava
+ČAS VOŽNJE,2019-07-23,Pestorić,Mitra
+UPLATA-2760.53,2019-07-24,Mandinić,Đurđa
+UPLATA-2571.01,2019-07-24,Buharić,Đuraško
+UPLATA-1430.13,2019-07-24,Đinđić,Miljojko
+UPLATA-1131.97,2019-07-24,Stakušić,Borjanka
+ČAS VOŽNJE,2019-07-24,Stakušić,Borjanka
+ČAS TEORIJE,2019-07-25,Pupić,Ilija
+ČAS VOŽNJE,2019-07-25,Poznić,Dario
+ČAS VOŽNJE,2019-07-25,Folić,Jelisav
+ČAS VOŽNJE,2019-07-25,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-07-25,Rakulić,Trivko
+ČAS VOŽNJE,2019-07-26,Biljurić,Vlado
+ČAS VOŽNJE,2019-07-26,Lozić,Pokrajac
+ČAS VOŽNJE,2019-07-27,Vasikić,Vasilije
+ČAS VOŽNJE,2019-07-27,Bikić,Đuro
+ČAS TEORIJE,2019-07-27,Roljić,Smilja
+ČAS TEORIJE,2019-07-27,Đuračić,Hvalimir
+UPLATA-1930.40,2019-07-28,Ušendić,Radoš
+ČAS TEORIJE,2019-07-28,Drapić,Cvetan
+ČAS VOŽNJE,2019-07-28,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-07-28,Tršić,Jevto
+ČAS TEORIJE,2019-07-29,Kilić,Dragosav
+ČAS VOŽNJE,2019-07-29,Paninčić,Tihomir
+ČAS TEORIJE,2019-07-29,Broćić,Vojimir
+ČAS VOŽNJE,2019-07-29,Pajagić,Jorgovanka
+UPLATA-1161.22,2019-07-30,Kravić,Adelina
+UPLATA-1094.50,2019-07-30,Kopčalić,Rekula
+ČAS VOŽNJE,2019-07-30,Roksandić,Stefana
+ČAS TEORIJE,2019-07-30,Kilić,Dragosav
+UPLATA-2424.31,2019-07-30,Dajić,Njegomir
+UPLATA-1721.04,2019-07-30,Lozić,Pokrajac
+ČAS TEORIJE,2019-07-31,Andesilić,Zvjezdan
+UPLATA-2175.28,2019-07-31,Anđušić,Ismail
+ČAS VOŽNJE,2019-07-31,Bobičić,Žitomir
+ČAS VOŽNJE,2019-07-31,Puhalić,Perica
+ČAS VOŽNJE,2019-08-01,Ananić,Andrija
+UPLATA-815.76,2019-08-01,Drakić,Radovinka
+UPLATA-1066.32,2019-08-01,Kiklić,Radoslava
+ČAS VOŽNJE,2019-08-01,Buharić,Đuraško
+ČAS VOŽNJE,2019-08-01,Kopčalić,Stribor
+UPLATA-1163.01,2019-08-01,Pestorić,Mitra
+UPLATA-74.43,2019-08-02,Rekavić,Ilija
+ČAS TEORIJE,2019-08-02,Ćupić,Miladin
+UPLATA-1663.66,2019-08-02,Lukičić,Gospava
+UPLATA-163.28,2019-08-02,Bikić,Đuro
+UPLATA-2083.55,2019-08-03,Puhalić,Perica
+ČAS TEORIJE,2019-08-03,Đinđić,Miljojko
+ČAS VOŽNJE,2019-08-03,Tršić,Jevto
+ČAS VOŽNJE,2019-08-04,Anđušić,Ismail
+ČAS VOŽNJE,2019-08-04,Bobičić,Tanasije
+ČAS VOŽNJE,2019-08-04,Malečić,Miroslava
+ČAS VOŽNJE,2019-08-04,Kravić,Adelina
+UPLATA-2034.70,2019-08-04,Savelić,Gordan
+UPLATA-353.07,2019-08-05,Koplić,Žikica
+ČAS VOŽNJE,2019-08-05,Alavantić,Jovica
+ČAS TEORIJE,2019-08-05,Vasikić,Vasilije
+ČAS TEORIJE,2019-08-05,Vrugić,Julka
+ČAS VOŽNJE,2019-08-05,Ananić,Andrija
+UPLATA-1898.39,2019-08-06,Bekić,Savatije
+UPLATA-996.12,2019-08-06,Folić,Jelisav
+ČAS VOŽNJE,2019-08-06,Malečić,Miroslava
+UPLATA-715.32,2019-08-06,Prendić,Kosana
+UPLATA-2485.23,2019-08-06,Budalić,Krstivoje
+UPLATA-2940.84,2019-08-06,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-08-07,Kiklić,Radoslava
+ČAS TEORIJE,2019-08-07,Lukičić,Gospava
+ČAS TEORIJE,2019-08-07,Tršić,Jevto
+ČAS TEORIJE,2019-08-07,Bikić,Đuro
+ČAS VOŽNJE,2019-08-07,Jovčetić,Radika
+ČAS TEORIJE,2019-08-08,Rakulić,Trivko
+ČAS TEORIJE,2019-08-08,Roljić,Smilja
+ČAS VOŽNJE,2019-08-08,Đuračić,Hvalimir
+UPLATA-1686.35,2019-08-08,Kepić,Melanija
+ČAS VOŽNJE,2019-08-08,Ljubić,Zlata
+ČAS VOŽNJE,2019-08-09,Trokić,Savo
+ČAS VOŽNJE,2019-08-09,Alavantić,Jovica
+ČAS TEORIJE,2019-08-10,Prendić,Kosana
+ČAS VOŽNJE,2019-08-10,Paninčić,Tihomir
+ČAS VOŽNJE,2019-08-10,Ušendić,Radoš
+UPLATA-882.61,2019-08-10,Anđušić,Ismail
+ČAS TEORIJE,2019-08-10,Stjepić,Velemir
+ČAS TEORIJE,2019-08-10,Pupić,Ilija
+UPLATA-2883.10,2019-08-11,Kovčić,Dobrosav
+ČAS TEORIJE,2019-08-11,Stankulić,Radosija
+ČAS VOŽNJE,2019-08-11,Lozić,Pokrajac
+ČAS TEORIJE,2019-08-11,Plemić,Plamenka
+ČAS TEORIJE,2019-08-12,Lukičić,Gospava
+ČAS TEORIJE,2019-08-12,Kepić,Melanija
+ČAS VOŽNJE,2019-08-12,Anđušić,Ismail
+UPLATA-2309.14,2019-08-12,Stankulić,Radosija
+ČAS TEORIJE,2019-08-12,Jekić,Laza
+UPLATA-2018.51,2019-08-13,Buharić,Đuraško
+UPLATA-473.27,2019-08-13,Budalić,Krstivoje
+ČAS TEORIJE,2019-08-13,Anđušić,Ismail
+ČAS TEORIJE,2019-08-13,Buharić,Đuraško
+UPLATA-2998.98,2019-08-13,Dulikravić,Gvozden
+UPLATA-1986.12,2019-08-14,Roksandić,Stefana
+UPLATA-2333.94,2019-08-14,Valčić,Darka
+UPLATA-1344.08,2019-08-14,Kopčalić,Rekula
+ČAS VOŽNJE,2019-08-14,Bobičić,Žitomir
+UPLATA-2333.62,2019-08-14,Guconić,Vukola
+UPLATA-1415.83,2019-08-15,Folić,Jelisav
+UPLATA-681.77,2019-08-15,Alavantić,Jovica
+ČAS VOŽNJE,2019-08-15,Anđušić,Ismail
+ČAS VOŽNJE,2019-08-16,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-08-16,Jovčetić,Radika
+ČAS VOŽNJE,2019-08-16,Koplić,Žikica
+ČAS VOŽNJE,2019-08-16,Ćuić,Marijana
+ČAS VOŽNJE,2019-08-17,Bekić,Savatije
+ČAS TEORIJE,2019-08-17,Rakulić,Trivko
+ČAS TEORIJE,2019-08-17,Čohadžić,Milorad
+UPLATA-1603.06,2019-08-17,Đuračić,Hvalimir
+ČAS TEORIJE,2019-08-17,Penčić,Cvijan
+UPLATA-2302.90,2019-08-17,Bjeletić,Momir
+ČAS VOŽNJE,2019-08-18,Krstinić,Krstimir
+ČAS VOŽNJE,2019-08-18,Trlajić,Neško
+UPLATA-1209.17,2019-08-18,Vrugić,Julka
+ČAS TEORIJE,2019-08-18,Rakulić,Trivko
+UPLATA-298.96,2019-08-19,Kravić,Adelina
+ČAS TEORIJE,2019-08-19,Ljubić,Zlata
+ČAS VOŽNJE,2019-08-19,Ćupić,Miladin
+UPLATA-1626.15,2019-08-19,Čohadžić,Milorad
+ČAS VOŽNJE,2019-08-19,Kiklić,Radoslava
+UPLATA-2538.04,2019-08-20,Ćupić,Miladin
+UPLATA-2931.47,2019-08-20,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-08-20,Dulikravić,Gvozden
+UPLATA-950.23,2019-08-20,Kovjanić,Vera
+UPLATA-1815.91,2019-08-20,Guconić,Vukola
+UPLATA-132.72,2019-08-20,Paninčić,Tihomir
+ČAS VOŽNJE,2019-08-21,Lozić,Pokrajac
+UPLATA-375.05,2019-08-21,Anđušić,Ismail
+ČAS TEORIJE,2019-08-21,Kaldesić,Petronije
+ČAS VOŽNJE,2019-08-21,Stakušić,Borjanka
+UPLATA-426.58,2019-08-22,Folić,Jelisav
+UPLATA-2595.74,2019-08-22,Nerić,Vidoja
+ČAS TEORIJE,2019-08-22,Bobičić,Tanasije
+ČAS TEORIJE,2019-08-23,Sjeničić,Savan
+UPLATA-513.74,2019-08-23,Stankulić,Radosija
+ČAS VOŽNJE,2019-08-23,Ljubić,Zlata
+ČAS VOŽNJE,2019-08-23,Bikić,Đuro
+ČAS VOŽNJE,2019-08-23,Vrugić,Julka
+ČAS TEORIJE,2019-08-24,Kokorić,Ćirilo
+UPLATA-771.43,2019-08-24,Mandinić,Đurđa
+UPLATA-1146.46,2019-08-24,Sinđelić,Đurđica
+UPLATA-721.67,2019-08-25,Kravić,Adelina
+ČAS VOŽNJE,2019-08-25,Kopčalić,Rekula
+UPLATA-2129.22,2019-08-25,Anđušić,Ismail
+ČAS TEORIJE,2019-08-26,Poznić,Dario
+UPLATA-1717.77,2019-08-26,Jekić,Laza
+UPLATA-2304.83,2019-08-26,Kepić,Melanija
+UPLATA-1607.85,2019-08-26,Ljubić,Zlata
+UPLATA-944.67,2019-08-27,Porobić,Vasiljko
+UPLATA-1137.30,2019-08-27,Ćupić,Miladin
+ČAS VOŽNJE,2019-08-27,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-08-27,Pajić,Ozriša
+UPLATA-2464.17,2019-08-27,Murišić,Branisav
+ČAS TEORIJE,2019-08-28,Stakušić,Borjanka
+ČAS TEORIJE,2019-08-28,Kiklić,Radoslava
+ČAS VOŽNJE,2019-08-28,Jovčetić,Radika
+UPLATA-1819.98,2019-08-28,Budalić,Krstivoje
+ČAS TEORIJE,2019-08-28,Kokorić,Ćirilo
+ČAS TEORIJE,2019-08-29,Porobić,Vasiljko
+ČAS TEORIJE,2019-08-29,Kilić,Dragosav
+UPLATA-61.93,2019-08-29,Čohadžić,Milorad
+UPLATA-2767.76,2019-08-29,Ćupić,Miladin
+UPLATA-2043.69,2019-08-29,Krstinić,Krstimir
+UPLATA-1065.46,2019-08-30,Dajić,Njegomir
+UPLATA-1878.68,2019-08-30,Kopčalić,Stribor
+UPLATA-2251.06,2019-08-30,Murišić,Branisav
+UPLATA-1065.24,2019-08-30,Roksandić,Stefana
+ČAS VOŽNJE,2019-08-30,Lukičić,Gospava
+ČAS VOŽNJE,2019-08-30,Guconić,Vukola
+UPLATA-347.45,2019-08-31,Nerić,Vidoja
+ČAS TEORIJE,2019-08-31,Ljubić,Zlata
+ČAS TEORIJE,2019-08-31,Pestorić,Mitra
+UPLATA-1728.82,2019-08-31,Ljubić,Zlata
+ČAS VOŽNJE,2019-08-31,Ljubić,Zlata
+ČAS VOŽNJE,2019-09-01,Broćić,Vojimir
+UPLATA-2977.08,2019-09-01,Kovjanić,Vera
+UPLATA-1486.32,2019-09-01,Ordagić,Zlatan
+ČAS VOŽNJE,2019-09-01,Malečić,Miroslava
+ČAS VOŽNJE,2019-09-02,Guconić,Vukola
+UPLATA-2392.38,2019-09-02,Guconić,Vukola
+UPLATA-1042.43,2019-09-02,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-09-02,Bikić,Đuro
+ČAS VOŽNJE,2019-09-02,Roljić,Smilja
+ČAS TEORIJE,2019-09-03,Pajagić,Jorgovanka
+UPLATA-428.57,2019-09-03,Kurdulić,Ratibor
+ČAS TEORIJE,2019-09-03,Stakušić,Borjanka
+UPLATA-2917.06,2019-09-03,Prendić,Kosana
+ČAS TEORIJE,2019-09-03,Broćić,Vojimir
+ČAS VOŽNJE,2019-09-04,Ćupić,Miladin
+ČAS VOŽNJE,2019-09-04,Budalić,Krstivoje
+UPLATA-1424.34,2019-09-04,Kopčalić,Rekula
+ČAS TEORIJE,2019-09-04,Tršić,Jevto
+ČAS TEORIJE,2019-09-04,Jovčetić,Radika
+ČAS TEORIJE,2019-09-05,Kokorić,Ćirilo
+UPLATA-2859.40,2019-09-05,Guconić,Vukola
+UPLATA-1510.76,2019-09-05,Kravić,Adelina
+ČAS VOŽNJE,2019-09-05,Budalić,Krstivoje
+ČAS TEORIJE,2019-09-05,Bikić,Đuro
+ČAS TEORIJE,2019-09-05,Kaldesić,Petronije
+UPLATA-2782.55,2019-09-06,Dajić,Njegomir
+ČAS VOŽNJE,2019-09-06,Pestorić,Mitra
+ČAS TEORIJE,2019-09-06,Kopčalić,Stribor
+ČAS TEORIJE,2019-09-06,Mandinić,Đurđa
+UPLATA-1893.59,2019-09-07,Lukičić,Gospava
+ČAS VOŽNJE,2019-09-07,Ćuić,Marijana
+ČAS VOŽNJE,2019-09-07,Đinđić,Miljojko
+UPLATA-2224.63,2019-09-07,Ćuić,Marijana
+ČAS TEORIJE,2019-09-07,Salatić,Boin
+ČAS VOŽNJE,2019-09-08,Alavantić,Jovica
+ČAS VOŽNJE,2019-09-08,Tršić,Jevto
+UPLATA-1493.63,2019-09-08,Kovjanić,Vera
+ČAS TEORIJE,2019-09-08,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-09-09,Kepić,Melanija
+ČAS VOŽNJE,2019-09-09,Ljoljić,Mirčeta
+UPLATA-2617.67,2019-09-09,Savelić,Gordan
+ČAS VOŽNJE,2019-09-09,Čohadžić,Milorad
+UPLATA-817.37,2019-09-10,Sjeničić,Savan
+ČAS VOŽNJE,2019-09-10,Paninčić,Tihomir
+ČAS VOŽNJE,2019-09-10,Prendić,Kosana
+UPLATA-1682.83,2019-09-10,Pajagić,Jorgovanka
+ČAS VOŽNJE,2019-09-10,Jekić,Laza
+UPLATA-2774.75,2019-09-10,Kovčić,Dobrosav
+ČAS TEORIJE,2019-09-11,Puhalić,Perica
+ČAS TEORIJE,2019-09-11,Plemić,Plamenka
+ČAS VOŽNJE,2019-09-11,Kiklić,Radoslava
+ČAS VOŽNJE,2019-09-11,Poznić,Dario
+ČAS TEORIJE,2019-09-12,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-09-12,Paninčić,Tihomir
+UPLATA-1519.02,2019-09-12,Prokić,Rajka
+UPLATA-487.05,2019-09-12,Paninčić,Tihomir
+ČAS VOŽNJE,2019-09-12,Murišić,Branisav
+ČAS VOŽNJE,2019-09-13,Koplić,Žikica
+ČAS TEORIJE,2019-09-13,Alavantić,Jovica
+UPLATA-2557.44,2019-09-13,Pajagić,Jorgovanka
+UPLATA-2000.40,2019-09-13,Dulikravić,Gvozden
+ČAS TEORIJE,2019-09-13,Valčić,Darka
+UPLATA-658.04,2019-09-14,Trlajić,Neško
+ČAS VOŽNJE,2019-09-14,Bikić,Đuro
+ČAS VOŽNJE,2019-09-14,Vasikić,Vasilije
+ČAS VOŽNJE,2019-09-14,Koplić,Žikica
+UPLATA-1387.01,2019-09-15,Rekavić,Ilija
+ČAS VOŽNJE,2019-09-15,Penčić,Cvijan
+ČAS VOŽNJE,2019-09-15,Ordagić,Zlatan
+UPLATA-1031.30,2019-09-15,Drakić,Radovinka
+ČAS VOŽNJE,2019-09-16,Paninčić,Tihomir
+ČAS TEORIJE,2019-09-16,Kilić,Dragosav
+UPLATA-818.00,2019-09-16,Rekavić,Ilija
+ČAS TEORIJE,2019-09-16,Penčić,Cvijan
+ČAS VOŽNJE,2019-09-16,Kepić,Melanija
+UPLATA-60.09,2019-09-17,Kopčalić,Stribor
+ČAS TEORIJE,2019-09-17,Paninčić,Tihomir
+UPLATA-1591.76,2019-09-17,Alavantić,Jovica
+ČAS TEORIJE,2019-09-17,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-09-17,Paninčić,Tihomir
+ČAS VOŽNJE,2019-09-18,Dajić,Njegomir
+ČAS TEORIJE,2019-09-18,Broćić,Vojimir
+ČAS VOŽNJE,2019-09-18,Pupić,Ilija
+ČAS VOŽNJE,2019-09-18,Stankulić,Radosija
+ČAS TEORIJE,2019-09-19,Bikić,Đuro
+UPLATA-239.85,2019-09-19,Folić,Jelisav
+ČAS TEORIJE,2019-09-19,Plemić,Plamenka
+UPLATA-2061.65,2019-09-19,Prendić,Kosana
+UPLATA-2279.63,2019-09-20,Đinđić,Miljojko
+ČAS VOŽNJE,2019-09-20,Savelić,Gordan
+ČAS VOŽNJE,2019-09-20,Drakić,Radovinka
+ČAS TEORIJE,2019-09-20,Ljoljić,Mirčeta
+ČAS TEORIJE,2019-09-21,Vrugić,Julka
+ČAS TEORIJE,2019-09-21,Ušendić,Radoš
+ČAS VOŽNJE,2019-09-21,Sinđelić,Đurđica
+ČAS TEORIJE,2019-09-21,Drakić,Radovinka
+ČAS VOŽNJE,2019-09-22,Sofijanić,Alimpije
+ČAS VOŽNJE,2019-09-22,Prendić,Kosana
+ČAS VOŽNJE,2019-09-22,Murišić,Branisav
+UPLATA-1654.82,2019-09-22,Drapić,Cvetan
+UPLATA-2507.85,2019-09-23,Pajić,Ozriša
+ČAS VOŽNJE,2019-09-23,Bobičić,Tanasije
+ČAS VOŽNJE,2019-09-23,Bobičić,Tanasije
+UPLATA-2255.54,2019-09-23,Kravić,Adelina
+UPLATA-2245.84,2019-09-24,Ćuić,Marijana
+ČAS TEORIJE,2019-09-24,Drapić,Cvetan
+ČAS VOŽNJE,2019-09-24,Puhalić,Perica
+UPLATA-2535.54,2019-09-24,Dulikravić,Gvozden
+ČAS TEORIJE,2019-09-24,Jekić,Laza
+UPLATA-448.99,2019-09-24,Bobičić,Tanasije
+UPLATA-1528.70,2019-09-25,Valčić,Darka
+UPLATA-1636.96,2019-09-25,Poznić,Dario
+ČAS VOŽNJE,2019-09-25,Kopčalić,Rekula
+ČAS TEORIJE,2019-09-25,Malečić,Miroslava
+UPLATA-2855.70,2019-09-25,Čohadžić,Milorad
+UPLATA-760.00,2019-09-26,Valčić,Darka
+ČAS VOŽNJE,2019-09-26,Đuračić,Hvalimir
+ČAS VOŽNJE,2019-09-26,Tršić,Jevto
+UPLATA-2497.80,2019-09-26,Bjeletić,Momir
+UPLATA-99.72,2019-09-26,Nerić,Vidoja
+ČAS TEORIJE,2019-09-27,Kaldesić,Petronije
+UPLATA-2979.67,2019-09-27,Kravić,Adelina
+ČAS TEORIJE,2019-09-27,Savelić,Gordan
+UPLATA-2855.57,2019-09-27,Anđušić,Ismail
+ČAS VOŽNJE,2019-09-27,Paninčić,Tihomir
+ČAS TEORIJE,2019-09-27,Trokić,Savo
+UPLATA-328.24,2019-09-28,Pajić,Ozriša
+UPLATA-1522.58,2019-09-28,Koplić,Žikica
+ČAS VOŽNJE,2019-09-28,Anđušić,Ismail
+UPLATA-2205.28,2019-09-28,Vrugić,Julka
+ČAS TEORIJE,2019-09-28,Vrugić,Julka
+ČAS TEORIJE,2019-09-29,Porobić,Vasiljko
+UPLATA-2328.82,2019-09-29,Savelić,Gordan
+UPLATA-501.33,2019-09-29,Sjeničić,Savan
+UPLATA-2862.48,2019-09-30,Poznić,Dario
+ČAS TEORIJE,2019-09-30,Murišić,Branisav
+UPLATA-1426.62,2019-09-30,Budalić,Krstivoje
+UPLATA-1118.02,2019-09-30,Sjeničić,Savan
+ČAS TEORIJE,2019-09-30,Pestorić,Mitra
+ČAS VOŽNJE,2019-10-01,Bjeletić,Momir
+ČAS VOŽNJE,2019-10-01,Puhalić,Perica
+UPLATA-2002.10,2019-10-01,Prendić,Kosana
+ČAS VOŽNJE,2019-10-01,Koplić,Žikica
+ČAS TEORIJE,2019-10-01,Vasikić,Vasilije
+ČAS TEORIJE,2019-10-01,Pajić,Ozriša
+ČAS VOŽNJE,2019-10-02,Lukičić,Gospava
+ČAS TEORIJE,2019-10-02,Prendić,Kosana
+UPLATA-1340.72,2019-10-02,Stakušić,Borjanka
+ČAS TEORIJE,2019-10-03,Sinđelić,Đurđica
+UPLATA-738.21,2019-10-03,Kovjanić,Vera
+ČAS VOŽNJE,2019-10-03,Vasikić,Vasilije
+ČAS TEORIJE,2019-10-03,Kurdulić,Ratibor
+ČAS VOŽNJE,2019-10-04,Andesilić,Zvjezdan
+UPLATA-1506.28,2019-10-04,Sjeničić,Savan
+ČAS VOŽNJE,2019-10-04,Lozić,Pokrajac
+UPLATA-1981.44,2019-10-04,Nerić,Vidoja
+ČAS VOŽNJE,2019-10-04,Kilić,Dragosav
+UPLATA-710.48,2019-10-04,Nerić,Vidoja
+UPLATA-4.79,2019-10-05,Malečić,Miroslava
+ČAS TEORIJE,2019-10-05,Kopčalić,Stribor
+ČAS VOŽNJE,2019-10-05,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-10-05,Broćić,Vojimir
+ČAS VOŽNJE,2019-10-06,Trlajić,Neško
+ČAS TEORIJE,2019-10-06,Dajić,Njegomir
+UPLATA-512.87,2019-10-06,Kravić,Adelina
+UPLATA-1030.84,2019-10-06,Ananić,Andrija
+UPLATA-414.60,2019-10-06,Ljoljić,Mirčeta
+UPLATA-1241.10,2019-10-07,Kokorić,Ćirilo
+UPLATA-1175.97,2019-10-07,Kokorić,Ćirilo
+ČAS TEORIJE,2019-10-07,Kiklić,Radoslava
+ČAS TEORIJE,2019-10-07,Dulikravić,Gvozden
+ČAS TEORIJE,2019-10-08,Čohadžić,Milorad
+ČAS VOŽNJE,2019-10-08,Pajagić,Jorgovanka
+UPLATA-725.75,2019-10-08,Roksandić,Stefana
+ČAS TEORIJE,2019-10-08,Kaldesić,Petronije
+ČAS VOŽNJE,2019-10-08,Kepić,Melanija
+ČAS VOŽNJE,2019-10-09,Valčić,Darka
+ČAS TEORIJE,2019-10-09,Čohadžić,Milorad
+ČAS VOŽNJE,2019-10-09,Čohadžić,Milorad
+UPLATA-2754.74,2019-10-09,Bobičić,Tanasije
+ČAS VOŽNJE,2019-10-09,Lukičić,Gospava
+ČAS TEORIJE,2019-10-10,Poznić,Dario
+ČAS VOŽNJE,2019-10-10,Anđušić,Ismail
+ČAS VOŽNJE,2019-10-10,Bjeletić,Momir
+UPLATA-505.96,2019-10-10,Kopčalić,Rekula
+UPLATA-1766.40,2019-10-10,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-10-11,Pupić,Ilija
+ČAS VOŽNJE,2019-10-11,Sjeničić,Savan
+ČAS VOŽNJE,2019-10-11,Ljubić,Zlata
+ČAS VOŽNJE,2019-10-11,Pupić,Ilija
+UPLATA-25.84,2019-10-12,Bobičić,Žitomir
+ČAS VOŽNJE,2019-10-12,Bekić,Savatije
+UPLATA-2310.33,2019-10-12,Dajić,Njegomir
+ČAS VOŽNJE,2019-10-12,Broćić,Vojimir
+ČAS VOŽNJE,2019-10-13,Jekić,Laza
+ČAS VOŽNJE,2019-10-13,Kopčalić,Stribor
+UPLATA-1276.21,2019-10-13,Kiklić,Radoslava
+ČAS VOŽNJE,2019-10-14,Kepić,Melanija
+UPLATA-2952.98,2019-10-14,Guconić,Vukola
+ČAS VOŽNJE,2019-10-14,Mandinić,Đurđa
+UPLATA-993.84,2019-10-14,Plemić,Plamenka
+ČAS VOŽNJE,2019-10-15,Andesilić,Zvjezdan
+ČAS VOŽNJE,2019-10-15,Bekić,Savatije
+ČAS TEORIJE,2019-10-15,Prokić,Rajka
+ČAS TEORIJE,2019-10-15,Ljubić,Zlata
+UPLATA-2168.87,2019-10-16,Stjepić,Velemir
+ČAS TEORIJE,2019-10-16,Mandinić,Đurđa
+UPLATA-2110.01,2019-10-16,Ananić,Andrija
+ČAS TEORIJE,2019-10-16,Alavantić,Jovica
+ČAS TEORIJE,2019-10-17,Guconić,Vukola
+ČAS TEORIJE,2019-10-17,Drakić,Radovinka
+UPLATA-363.16,2019-10-17,Pestorić,Mitra
+ČAS VOŽNJE,2019-10-17,Čohadžić,Milorad
+UPLATA-56.85,2019-10-17,Alavantić,Jovica
+UPLATA-1749.83,2019-10-17,Stjepić,Velemir
+ČAS TEORIJE,2019-10-18,Stjepić,Velemir
+ČAS TEORIJE,2019-10-18,Trlajić,Neško
+ČAS TEORIJE,2019-10-18,Krstinić,Krstimir
+UPLATA-2892.18,2019-10-18,Kovčić,Dobrosav
+ČAS TEORIJE,2019-10-18,Bekić,Savatije
+UPLATA-214.23,2019-10-18,Trlajić,Neško
+ČAS TEORIJE,2019-10-19,Bobičić,Tanasije
+ČAS TEORIJE,2019-10-19,Salatić,Boin
+UPLATA-1128.67,2019-10-19,Stakušić,Borjanka
+UPLATA-2398.74,2019-10-19,Pajagić,Jorgovanka
+UPLATA-1468.24,2019-10-20,Stankulić,Radosija
+ČAS TEORIJE,2019-10-20,Pupić,Ilija
+ČAS VOŽNJE,2019-10-20,Sjeničić,Savan
+ČAS VOŽNJE,2019-10-20,Savelić,Gordan
+ČAS TEORIJE,2019-10-20,Lozić,Pokrajac
+ČAS TEORIJE,2019-10-21,Rekavić,Ilija
+ČAS TEORIJE,2019-10-21,Dajić,Njegomir
+UPLATA-461.15,2019-10-21,Dulikravić,Gvozden
+UPLATA-721.42,2019-10-21,Pajagić,Jorgovanka
+UPLATA-1519.81,2019-10-21,Kravić,Adelina
+ČAS VOŽNJE,2019-10-22,Lukičić,Gospava
+ČAS TEORIJE,2019-10-22,Folić,Jelisav
+ČAS VOŽNJE,2019-10-22,Ordagić,Zlatan
+UPLATA-2185.34,2019-10-23,Anđušić,Ismail
+ČAS VOŽNJE,2019-10-23,Kovjanić,Vera
+ČAS TEORIJE,2019-10-23,Kopčalić,Rekula
+UPLATA-2775.06,2019-10-23,Kravić,Adelina
+UPLATA-742.92,2019-10-23,Sjeničić,Savan
+UPLATA-2581.26,2019-10-23,Roksandić,Stefana
+ČAS VOŽNJE,2019-10-24,Kepić,Melanija
+ČAS VOŽNJE,2019-10-24,Kovčić,Dobrosav
+UPLATA-2970.55,2019-10-24,Pajić,Ozriša
+ČAS TEORIJE,2019-10-24,Biljurić,Vlado
+ČAS VOŽNJE,2019-10-24,Koplić,Žikica
+ČAS VOŽNJE,2019-10-25,Poznić,Dario
+UPLATA-951.80,2019-10-25,Prendić,Kosana
+ČAS VOŽNJE,2019-10-26,Biljurić,Vlado
+ČAS TEORIJE,2019-10-26,Anđušić,Ismail
+ČAS VOŽNJE,2019-10-26,Dajić,Njegomir
+ČAS TEORIJE,2019-10-26,Porobić,Vasiljko
+ČAS VOŽNJE,2019-10-27,Pupić,Ilija
+UPLATA-2835.25,2019-10-27,Stankulić,Radosija
+ČAS VOŽNJE,2019-10-27,Kokorić,Ćirilo
+ČAS VOŽNJE,2019-10-27,Sofijanić,Alimpije
+UPLATA-164.19,2019-10-28,Bjeletić,Momir
+ČAS TEORIJE,2019-10-28,Poznić,Dario
+UPLATA-2061.64,2019-10-28,Biljurić,Vlado
+ČAS TEORIJE,2019-10-28,Stjepić,Velemir
+UPLATA-1903.95,2019-10-28,Puhalić,Perica
+ČAS TEORIJE,2019-10-29,Kopčalić,Stribor
+ČAS TEORIJE,2019-10-29,Drapić,Cvetan
+ČAS TEORIJE,2019-10-29,Kepić,Melanija
+ČAS VOŽNJE,2019-10-30,Koplić,Žikica
+ČAS VOŽNJE,2019-10-30,Kurdulić,Ratibor
+ČAS TEORIJE,2019-10-30,Kuveljić,Rada
+ČAS TEORIJE,2019-10-30,Stankulić,Radosija
+ČAS VOŽNJE,2019-10-30,Ljubić,Zlata
+UPLATA-45.85,2019-10-31,Pestorić,Mitra
+UPLATA-2071.22,2019-10-31,Biljurić,Vlado
+UPLATA-686.75,2019-10-31,Ananić,Andrija
+ČAS TEORIJE,2019-10-31,Kaldesić,Petronije
+ČAS VOŽNJE,2019-11-01,Kovčić,Dobrosav
+UPLATA-1579.55,2019-11-01,Lukičić,Gospava
+UPLATA-1359.55,2019-11-01,Rekavić,Ilija
+UPLATA-1810.28,2019-11-01,Dajić,Njegomir
+UPLATA-2004.48,2019-11-01,Paninčić,Tihomir
+ČAS VOŽNJE,2019-11-02,Ćupić,Miladin
+ČAS VOŽNJE,2019-11-02,Drakić,Radovinka
+ČAS VOŽNJE,2019-11-02,Kuveljić,Rada
+UPLATA-1493.84,2019-11-02,Kokorić,Ćirilo
+ČAS TEORIJE,2019-11-02,Alavantić,Jovica
+UPLATA-1770.72,2019-11-03,Stakušić,Borjanka
+ČAS TEORIJE,2019-11-03,Vrugić,Julka
+ČAS TEORIJE,2019-11-03,Alavantić,Jovica
+UPLATA-1418.13,2019-11-04,Kravić,Adelina
+UPLATA-697.86,2019-11-04,Alavantić,Jovica
+UPLATA-1075.77,2019-11-04,Buharić,Đuraško
+ČAS VOŽNJE,2019-11-04,Ananić,Andrija
+ČAS TEORIJE,2019-11-04,Drakić,Radovinka
+ČAS VOŽNJE,2019-11-05,Krstinić,Krstimir
+ČAS TEORIJE,2019-11-05,Prokić,Rajka
+ČAS VOŽNJE,2019-11-05,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-11-05,Salatić,Boin
+ČAS VOŽNJE,2019-11-05,Plemić,Plamenka
+UPLATA-2806.38,2019-11-06,Ordagić,Zlatan
+UPLATA-247.01,2019-11-06,Paninčić,Tihomir
+ČAS VOŽNJE,2019-11-06,Malečić,Miroslava
+ČAS TEORIJE,2019-11-06,Stjepić,Velemir
+UPLATA-1022.48,2019-11-07,Nerić,Vidoja
+ČAS VOŽNJE,2019-11-07,Alavantić,Jovica
+ČAS VOŽNJE,2019-11-07,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-11-07,Savelić,Gordan
+ČAS VOŽNJE,2019-11-07,Mandinić,Đurđa
+UPLATA-1476.77,2019-11-08,Mandinić,Đurđa
+ČAS TEORIJE,2019-11-08,Budalić,Krstivoje
+ČAS TEORIJE,2019-11-08,Ordagić,Zlatan
+UPLATA-2826.58,2019-11-08,Pupić,Ilija
+ČAS VOŽNJE,2019-11-09,Bobičić,Tanasije
+UPLATA-1289.79,2019-11-09,Ćupić,Miladin
+ČAS TEORIJE,2019-11-09,Jekić,Laza
+UPLATA-2291.66,2019-11-09,Bobičić,Žitomir
+UPLATA-1792.02,2019-11-09,Jekić,Laza
+ČAS TEORIJE,2019-11-10,Lozić,Pokrajac
+ČAS TEORIJE,2019-11-10,Prokić,Rajka
+UPLATA-1148.39,2019-11-10,Poznić,Dario
+ČAS TEORIJE,2019-11-10,Trokić,Savo
+ČAS VOŽNJE,2019-11-10,Nerić,Vidoja
+UPLATA-849.58,2019-11-11,Rakulić,Trivko
+ČAS VOŽNJE,2019-11-11,Pajagić,Jorgovanka
+UPLATA-1880.32,2019-11-11,Kurdulić,Ratibor
+ČAS TEORIJE,2019-11-11,Krstinić,Krstimir
+ČAS TEORIJE,2019-11-11,Kilić,Dragosav
+ČAS TEORIJE,2019-11-11,Tršić,Jevto
+UPLATA-1283.14,2019-11-12,Ljoljić,Mirčeta
+ČAS VOŽNJE,2019-11-12,Anđušić,Ismail
+ČAS VOŽNJE,2019-11-12,Ljoljić,Mirčeta
+UPLATA-459.16,2019-11-12,Drakić,Radovinka
+ČAS VOŽNJE,2019-11-12,Stankulić,Radosija
+UPLATA-930.92,2019-11-13,Koplić,Žikica
+ČAS TEORIJE,2019-11-13,Ananić,Andrija
+ČAS VOŽNJE,2019-11-13,Murišić,Branisav
+ČAS TEORIJE,2019-11-13,Đinđić,Miljojko
+ČAS TEORIJE,2019-11-13,Tršić,Jevto
+ČAS VOŽNJE,2019-11-13,Kovjanić,Vera
+ČAS TEORIJE,2019-11-14,Pajagić,Jorgovanka
+UPLATA-262.27,2019-11-14,Buharić,Đuraško
+ČAS VOŽNJE,2019-11-14,Drapić,Cvetan
+UPLATA-1038.29,2019-11-15,Drapić,Cvetan
+ČAS TEORIJE,2019-11-15,Kuveljić,Rada
+ČAS VOŽNJE,2019-11-15,Drapić,Cvetan
+UPLATA-2559.50,2019-11-15,Porobić,Vasiljko
+ČAS VOŽNJE,2019-11-15,Sinđelić,Đurđica
+UPLATA-1768.09,2019-11-15,Sinđelić,Đurđica
+ČAS TEORIJE,2019-11-16,Trokić,Savo
+ČAS VOŽNJE,2019-11-16,Pestorić,Mitra
+ČAS VOŽNJE,2019-11-16,Drapić,Cvetan
+UPLATA-1009.52,2019-11-16,Rakulić,Trivko
+ČAS TEORIJE,2019-11-16,Budalić,Krstivoje
+ČAS VOŽNJE,2019-11-17,Puhalić,Perica
+ČAS TEORIJE,2019-11-17,Ušendić,Radoš
+UPLATA-1004.86,2019-11-17,Stjepić,Velemir
+ČAS TEORIJE,2019-11-17,Jekić,Laza
+ČAS VOŽNJE,2019-11-17,Kurdulić,Ratibor
+UPLATA-2956.42,2019-11-18,Kiklić,Radoslava
+ČAS TEORIJE,2019-11-18,Bobičić,Tanasije
+ČAS VOŽNJE,2019-11-18,Kiklić,Radoslava
+UPLATA-2977.41,2019-11-18,Sinđelić,Đurđica
+UPLATA-2964.65,2019-11-18,Budalić,Krstivoje
+UPLATA-2892.03,2019-11-19,Trokić,Savo
+ČAS TEORIJE,2019-11-19,Kokorić,Ćirilo
+ČAS VOŽNJE,2019-11-19,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-11-19,Drakić,Radovinka
+ČAS VOŽNJE,2019-11-20,Prokić,Rajka
+ČAS TEORIJE,2019-11-20,Lukičić,Gospava
+UPLATA-2094.94,2019-11-20,Sofijanić,Alimpije
+UPLATA-694.62,2019-11-20,Kiklić,Radoslava
+ČAS VOŽNJE,2019-11-20,Poznić,Dario
+ČAS TEORIJE,2019-11-21,Roljić,Smilja
+ČAS TEORIJE,2019-11-21,Nerić,Vidoja
+ČAS VOŽNJE,2019-11-21,Malečić,Miroslava
+ČAS VOŽNJE,2019-11-21,Paninčić,Tihomir
+ČAS TEORIJE,2019-11-21,Buharić,Đuraško
+ČAS TEORIJE,2019-11-22,Kopčalić,Stribor
+ČAS TEORIJE,2019-11-22,Kiklić,Radoslava
+UPLATA-2665.80,2019-11-22,Đinđić,Miljojko
+ČAS TEORIJE,2019-11-23,Pupić,Ilija
+ČAS TEORIJE,2019-11-23,Tršić,Jevto
+ČAS VOŽNJE,2019-11-23,Koplić,Žikica
+ČAS VOŽNJE,2019-11-23,Pupić,Ilija
+UPLATA-1105.29,2019-11-23,Broćić,Vojimir
+ČAS TEORIJE,2019-11-24,Đinđić,Miljojko
+ČAS TEORIJE,2019-11-24,Dajić,Njegomir
+UPLATA-1214.37,2019-11-24,Paninčić,Tihomir
+UPLATA-945.63,2019-11-24,Sjeničić,Savan
+ČAS TEORIJE,2019-11-24,Kilić,Dragosav
+UPLATA-2904.99,2019-11-25,Lozić,Pokrajac
+ČAS VOŽNJE,2019-11-25,Porobić,Vasiljko
+ČAS TEORIJE,2019-11-25,Bekić,Savatije
+UPLATA-1305.45,2019-11-25,Alavantić,Jovica
+UPLATA-413.71,2019-11-26,Krstinić,Krstimir
+UPLATA-32.10,2019-11-26,Bjeletić,Momir
+UPLATA-1517.86,2019-11-26,Sinđelić,Đurđica
+ČAS VOŽNJE,2019-11-26,Jovčetić,Radika
+UPLATA-903.65,2019-11-26,Penčić,Cvijan
+UPLATA-2685.88,2019-11-26,Jovčetić,Radika
+ČAS VOŽNJE,2019-11-27,Prendić,Kosana
+ČAS VOŽNJE,2019-11-27,Bobičić,Žitomir
+ČAS TEORIJE,2019-11-27,Dajić,Njegomir
+ČAS TEORIJE,2019-11-27,Stakušić,Borjanka
+ČAS VOŽNJE,2019-11-28,Prokić,Rajka
+ČAS TEORIJE,2019-11-28,Prokić,Rajka
+ČAS TEORIJE,2019-11-28,Kopčalić,Rekula
+UPLATA-468.32,2019-11-28,Prokić,Rajka
+ČAS VOŽNJE,2019-11-29,Prendić,Kosana
+ČAS VOŽNJE,2019-11-29,Kiklić,Radoslava
+ČAS TEORIJE,2019-11-29,Prokić,Rajka
+ČAS VOŽNJE,2019-11-29,Trokić,Savo
+ČAS VOŽNJE,2019-11-29,Andesilić,Zvjezdan
+ČAS TEORIJE,2019-11-30,Ćupić,Miladin
+ČAS VOŽNJE,2019-11-30,Paninčić,Tihomir
+ČAS TEORIJE,2019-11-30,Kepić,Melanija
+ČAS VOŽNJE,2019-11-30,Budalić,Krstivoje
+ČAS VOŽNJE,2019-11-30,Vrugić,Julka
+ČAS TEORIJE,2019-12-01,Prendić,Kosana
+UPLATA-2840.93,2019-12-01,Vrugić,Julka
+UPLATA-2190.35,2019-12-01,Koplić,Žikica
+ČAS VOŽNJE,2019-12-01,Salatić,Boin
+UPLATA-799.71,2019-12-01,Kurdulić,Ratibor
+UPLATA-965.79,2019-12-02,Krstinić,Krstimir
+ČAS VOŽNJE,2019-12-02,Poznić,Dario
+ČAS TEORIJE,2019-12-02,Guconić,Vukola
+UPLATA-1043.52,2019-12-02,Trlajić,Neško
+UPLATA-202.92,2019-12-03,Kokorić,Ćirilo
+UPLATA-506.76,2019-12-03,Sjeničić,Savan
+ČAS TEORIJE,2019-12-03,Pestorić,Mitra
+ČAS VOŽNJE,2019-12-03,Pajagić,Jorgovanka
+ČAS TEORIJE,2019-12-03,Đinđić,Miljojko
+UPLATA-1690.29,2019-12-03,Bobičić,Žitomir
+ČAS TEORIJE,2019-12-04,Drakić,Radovinka
+ČAS VOŽNJE,2019-12-04,Kovjanić,Vera
+ČAS TEORIJE,2019-12-04,Pestorić,Mitra
+ČAS VOŽNJE,2019-12-04,Bekić,Savatije
+ČAS TEORIJE,2019-12-04,Sjeničić,Savan
+ČAS VOŽNJE,2019-12-05,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-12-05,Guconić,Vukola
+ČAS VOŽNJE,2019-12-05,Kiklić,Radoslava
+ČAS VOŽNJE,2019-12-06,Kaldesić,Petronije
+ČAS VOŽNJE,2019-12-06,Ćuić,Marijana
+ČAS TEORIJE,2019-12-06,Anđušić,Ismail
+ČAS TEORIJE,2019-12-06,Guconić,Vukola
+UPLATA-1699.74,2019-12-07,Pajić,Ozriša
+UPLATA-1438.61,2019-12-07,Savelić,Gordan
+UPLATA-2533.81,2019-12-07,Sjeničić,Savan
+ČAS VOŽNJE,2019-12-07,Penčić,Cvijan
+ČAS TEORIJE,2019-12-08,Bobičić,Tanasije
+UPLATA-162.05,2019-12-08,Lukičić,Gospava
+ČAS VOŽNJE,2019-12-08,Plemić,Plamenka
+ČAS TEORIJE,2019-12-08,Kurdulić,Ratibor
+ČAS TEORIJE,2019-12-09,Kaldesić,Petronije
+ČAS VOŽNJE,2019-12-09,Dajić,Njegomir
+ČAS TEORIJE,2019-12-09,Drapić,Cvetan
+ČAS TEORIJE,2019-12-09,Salatić,Boin
+ČAS VOŽNJE,2019-12-10,Kokorić,Ćirilo
+ČAS TEORIJE,2019-12-10,Guconić,Vukola
+ČAS TEORIJE,2019-12-10,Kaldesić,Petronije
+ČAS VOŽNJE,2019-12-10,Prendić,Kosana
+ČAS VOŽNJE,2019-12-10,Kovčić,Dobrosav
+UPLATA-995.28,2019-12-10,Pajić,Ozriša
+UPLATA-2649.16,2019-12-11,Plemić,Plamenka
+UPLATA-413.67,2019-12-11,Roksandić,Stefana
+ČAS VOŽNJE,2019-12-12,Alavantić,Jovica
+ČAS VOŽNJE,2019-12-12,Kurdulić,Ratibor
+ČAS VOŽNJE,2019-12-12,Biljurić,Vlado
+UPLATA-1537.14,2019-12-12,Kilić,Dragosav
+UPLATA-1878.76,2019-12-13,Rakulić,Trivko
+ČAS TEORIJE,2019-12-13,Pestorić,Mitra
+ČAS TEORIJE,2019-12-13,Kurdulić,Ratibor
+UPLATA-586.57,2019-12-14,Sjeničić,Savan
+ČAS VOŽNJE,2019-12-14,Bikić,Đuro
+ČAS TEORIJE,2019-12-14,Trlajić,Neško
+ČAS TEORIJE,2019-12-14,Penčić,Cvijan
+UPLATA-1062.73,2019-12-15,Plemić,Plamenka
+UPLATA-1534.60,2019-12-15,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-12-15,Kopčalić,Stribor
+UPLATA-1212.60,2019-12-16,Dulikravić,Gvozden
+ČAS TEORIJE,2019-12-16,Vrugić,Julka
+ČAS TEORIJE,2019-12-16,Biljurić,Vlado
+ČAS VOŽNJE,2019-12-16,Dajić,Njegomir
+ČAS VOŽNJE,2019-12-16,Ananić,Andrija
+ČAS TEORIJE,2019-12-17,Porobić,Vasiljko
+ČAS VOŽNJE,2019-12-17,Jovčetić,Radika
+UPLATA-2005.50,2019-12-17,Dulikravić,Gvozden
+ČAS VOŽNJE,2019-12-17,Dajić,Njegomir
+ČAS VOŽNJE,2019-12-18,Kiklić,Radoslava
+UPLATA-2954.28,2019-12-18,Jekić,Laza
+UPLATA-2810.73,2019-12-18,Ordagić,Zlatan
+ČAS TEORIJE,2019-12-19,Drapić,Cvetan
+UPLATA-2964.33,2019-12-19,Čohadžić,Milorad
+UPLATA-1901.28,2019-12-19,Krstinić,Krstimir
+UPLATA-2688.63,2019-12-20,Pajić,Ozriša
+ČAS TEORIJE,2019-12-20,Bobičić,Žitomir
+ČAS VOŽNJE,2019-12-20,Đinđić,Miljojko
+UPLATA-2292.68,2019-12-20,Poznić,Dario
+UPLATA-193.12,2019-12-20,Porobić,Vasiljko
+ČAS TEORIJE,2019-12-21,Koplić,Žikica
+ČAS TEORIJE,2019-12-21,Biljurić,Vlado
+ČAS TEORIJE,2019-12-21,Anđušić,Ismail
+UPLATA-2698.27,2019-12-21,Koplić,Žikica
+ČAS VOŽNJE,2019-12-21,Nerić,Vidoja
+ČAS VOŽNJE,2019-12-22,Lukičić,Gospava
+ČAS TEORIJE,2019-12-22,Sjeničić,Savan
+UPLATA-1941.17,2019-12-22,Kaldesić,Petronije
+ČAS VOŽNJE,2019-12-23,Budalić,Krstivoje
+UPLATA-783.83,2019-12-23,Prendić,Kosana
+UPLATA-2618.00,2019-12-23,Pupić,Ilija
+UPLATA-184.24,2019-12-23,Pajagić,Jorgovanka
+UPLATA-1069.08,2019-12-23,Krstinić,Krstimir
+UPLATA-2579.70,2019-12-24,Bikić,Đuro
+ČAS VOŽNJE,2019-12-24,Buharić,Đuraško
+UPLATA-1486.28,2019-12-25,Kovčić,Dobrosav
+ČAS VOŽNJE,2019-12-25,Ćupić,Miladin
+UPLATA-1792.20,2019-12-25,Ušendić,Radoš
+UPLATA-2370.53,2019-12-25,Pestorić,Mitra
+ČAS VOŽNJE,2019-12-26,Sjeničić,Savan
+UPLATA-1041.20,2019-12-26,Kopčalić,Stribor
+UPLATA-2160.48,2019-12-26,Ušendić,Radoš
+UPLATA-58.85,2019-12-26,Kilić,Dragosav
+UPLATA-671.88,2019-12-26,Roljić,Smilja
+ČAS TEORIJE,2019-12-26,Sjeničić,Savan
+ČAS TEORIJE,2019-12-27,Jekić,Laza
+ČAS TEORIJE,2019-12-27,Lozić,Pokrajac
+ČAS VOŽNJE,2019-12-27,Folić,Jelisav
+ČAS TEORIJE,2019-12-27,Kravić,Adelina
+ČAS TEORIJE,2019-12-28,Ljubić,Zlata
+UPLATA-983.97,2019-12-28,Ljubić,Zlata
+ČAS TEORIJE,2019-12-28,Mandinić,Đurđa
+ČAS VOŽNJE,2019-12-28,Drapić,Cvetan
+ČAS VOŽNJE,2019-12-28,Jovčetić,Radika
+UPLATA-2119.16,2019-12-29,Lukičić,Gospava
+UPLATA-1636.56,2019-12-29,Savelić,Gordan
+ČAS VOŽNJE,2019-12-29,Kovjanić,Vera
+ČAS VOŽNJE,2019-12-29,Prokić,Rajka
+ČAS VOŽNJE,2019-12-29,Bekić,Savatije
+UPLATA-1353.40,2019-12-30,Ušendić,Radoš
+ČAS VOŽNJE,2019-12-30,Bekić,Savatije
+ČAS TEORIJE,2019-12-30,Stjepić,Velemir
+UPLATA-1829.15,2019-12-30,Prendić,Kosana
+ČAS TEORIJE,2019-12-30,Kovjanić,Vera
+ČAS VOŽNJE,2019-12-31,Ušendić,Radoš
+ČAS TEORIJE,2019-12-31,Alavantić,Jovica
+ČAS TEORIJE,2019-12-31,Trlajić,Neško
+UPLATA-1085.11,2019-12-31,Porobić,Vasiljko
+POLAGANJE,2020-01-01,Savelić,Gordan
+POLAGANJE,2020-01-01,Kopčalić,Stribor
+POLAGANJE,2020-02-03,Savelić,Gordan
