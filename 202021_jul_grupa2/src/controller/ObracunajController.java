@@ -3,16 +3,18 @@ package controller;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.control.Alert;
+import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
-import model.Baza;
-import model.Zaposleni;
+import model.*;
 import javafx.scene.control.Alert.AlertType;
 
 public class ObracunajController implements EventHandler<ActionEvent> {
 
+	private TableView<Zaposleni> tvZaposleni;
 	private TextField tfObracunaj;
 
-	public ObracunajController(TextField tfObracunaj) {
+	public ObracunajController(TableView<Zaposleni> tvZaposleni, TextField tfObracunaj) {
+		this.tvZaposleni = tvZaposleni;
 		this.tfObracunaj = tfObracunaj;
 	}
 
@@ -30,5 +32,6 @@ public class ObracunajController implements EventHandler<ActionEvent> {
 			z.obracunajPlatu(cenaRada);
 		
 		Baza.odradiStatistiku();
+		tvZaposleni.refresh();
 	}
 }
