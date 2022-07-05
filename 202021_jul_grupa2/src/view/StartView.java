@@ -87,7 +87,7 @@ public class StartView extends Stage {
 	}
 	
 	private void actions() {
-		btnObracunaj.setOnAction(new ObracunajController(tfObracunaj));
+		btnObracunaj.setOnAction(new ObracunajController(tvZaposleni, tfObracunaj));
 		btnFiltriraj.setOnAction(new FilterController(tfFilter, cmbPozicije));
 		btnDodajZaposlenog.setOnAction(event -> DodajZaposlenogView.getInstance());
 		btnStatistika.setOnAction(event -> StatistikaView.getInstance());
