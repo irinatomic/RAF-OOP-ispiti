@@ -3,16 +3,10 @@ package view;
 import controller.PrebaciController;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.scene.control.Button;
-import javafx.scene.control.ComboBox;
-import javafx.scene.control.Label;
-import javafx.scene.control.ListView;
-import javafx.scene.control.SelectionMode;
+import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
-import model.Baza;
-import model.Student;
-import model.Ucionica;
+import model.*;
 
 public class PrebacivanjeView extends VBox {
 
