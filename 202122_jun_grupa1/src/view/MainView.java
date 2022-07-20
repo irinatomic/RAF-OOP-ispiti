@@ -2,8 +2,7 @@ package view;
 
 import java.util.List;
 
-import controller.FiltrirajController;
-import controller.UpisiContoller;
+import controller.*;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.geometry.Insets;
